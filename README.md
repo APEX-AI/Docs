@@ -8,9 +8,25 @@ APEX defines the structure for the implementation of Xepa protocols into token m
 Xepa is a set of protocols for the creation of utilitarian smart contracts. 
 
 # Resources
+[Website](https://doapex.com)
+[Token Registration](https://doapex.com/#/tokenregistration)
 [Whitepaper](https://github.com/apex-ai/proto/blob/master/technical-whitepaper.md)
 
+
 # APEX Concepts
+APEX can technically be defined as participatory token economics with an introspective deep-learning protocol.  Placement, actors, capitalization and redemption themes are consistently seen throughout the APEX ecosystem.  
+
+## Placement
+Simply put, the buyers of tokens
+
+## Capitalization
+How many tokens were sold
+
+## Redemption
+The specific consideration were tokens used for
+
+## Actors
+Profiles for buyers and seller
 
 # APEX Protocols
 Protocols are described in the [Technical Whitepaper](https://github.com/apex-ai/proto/blob/master/technical-whitepaper.md)
@@ -23,19 +39,13 @@ APEX for brands and influencers
 [AIX Whitepaper](https://github.com/APEX-AI/Docs/blob/master/aix-whitepaper.md)
 ## Future Marketplaces
 ### APEX Ad Exchange
-APEX for ads
 ### APEX Investments
-APEX for finance
 #### Derivatives
 #### Debt
 #### Commodities
 #### Equity
 ### APEX Real Estate
-APEX for Real Estate
 ### APEX Pharma
-APEX for the prescription sector
 ### APEX Travel
-APEX for the travel sector
 ### APEX Play
-Fun and leisure related economies
 
