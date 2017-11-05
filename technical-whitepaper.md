@@ -35,17 +35,17 @@ Algorythm creators are paid in AIT when their algorythms match a set of inputs t
 
 # Protocols
 
-## create()
+### create()
 Recommend smart contracts based on capital needs & market demand
 
-## send()
+### send()
 Optimize placement opportunities for token distribution
 
-## redeem()
+### redeem()
 Maximize token economics through token consideration introspection
 
 
-## Protocol Paramaters
+# Protocol Paramaters
 
 Protocol paramaters are an array of key-value pairs.
 [{key:value}]
