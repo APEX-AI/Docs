@@ -64,7 +64,7 @@ New actors can be added through the add_actor() protocol
 
 Protocols will always have a reference to consideration.  Consideration is the actual item or service being exchanged for a token.  
 
-Similar to identities, considerations can be grouped. Usually a protocol will reference an identity group.  The group has it's own unique AID.  Multiple AID's can be used as parameters without exception.  XEPA will define a subset of identity groups to start with.  [Identity Groups](https://www.doapex.com)
+Similar to identities, considerations can be grouped.  The group has it's own unique AIC.  Multiple AIC's can be used as parameters without exception.  XEPA will define a subset of consideration groups to start with.  [Consideration Groups](https://www.doapex.com)
 
 New consideration can be added through the add_consideration() protocol
 
@@ -73,7 +73,7 @@ New consideration can be added through the add_consideration() protocol
 
 Protocols will contain references to an actual value for an item of consideration in any fiat or token currency.  The value at the time of a transaction will change overtime thus it's important to perform any fiat exchange operations and store them at the time of transaction.
 
-Similar to identities, considerations can be grouped. Usually a protocol will reference an identity group.  The group has it's own unique AID.  Multiple AID's can be used as parameters without exception.  XEPA will define a subset of identity groups to start with.  [Identity Groups](https://www.doapex.com)
+Similar to identities, considerations can be grouped. Usually a protocol will reference an identity group.  The group has it's own unique AID.  Multiple AID's can be used as parameters without exception.  
 
 New values can be added through the add_value() protocol
 
