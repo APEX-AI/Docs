@@ -1,7 +1,7 @@
 # APEX - Technical Whitepaper
 
 # Abstract
-Bitcoin and Ethereum mark an important evolution in computer science.  Blockchain technology and decentralized computing could potentially be more transformative than the internet itself.  Decentralized computing and value transfer allow nacient systems to evolve at an exponentail pace.  We must build systems to manage this process.
+Bitcoin and Ethereum mark an important evolution in computer science.  You wouldn't say this 3 years ago, but today it's not hard to imagine Blockchain technology being just as, if not more transformative than the internet itself.  The development of decentralized computing with the advent of value transfer will propel nacient systems to evolve at an exponentail pace.  We must build intelligent systems to manage this process.
 
 APEX represents an evolution in the blockchain ecosystem whereby a present and evolving intelligence system will determine the best course for creation, distribution and redemption of smart tokens.  
 
