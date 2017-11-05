@@ -148,11 +148,11 @@ New values can be added through the add_value() protocol
 
 # Stretch Goals
 
-## 10m - Xepa Markets - Marketplaces
-## 25m - Xepa NLP - Spoken Interface
-## 50m - APEX Exchange (Xepa wallet & transfers)
-## 100m - Xepa Futures - Financial Products
-## 200m - Distributed deep-learning computing platform (Ethereum for deep-learning)
+### 10m - Xepa Markets - Marketplaces
+### 25m - Xepa NLP - Spoken Interface
+### 50m - APEX Exchange (Xepa wallet & transfers)
+### 100m - Xepa Futures - Financial Products
+### 200m - Distributed deep-learning computing platform (Ethereum for deep-learning)
 We will build a blockchain where miners earn gas for performing deep-learning processes.
 
 
