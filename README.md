@@ -9,7 +9,9 @@ Xepa is a set of protocols for the creation of utilitarian smart contracts.
 
 # Resources
 [Website](https://doapex.com)
+
 [Token Registration](https://doapex.com/#/tokenregistration)
+
 [Whitepaper](https://github.com/apex-ai/proto/blob/master/technical-whitepaper.md)
 
 
