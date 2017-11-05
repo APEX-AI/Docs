@@ -1,7 +1,5 @@
 # APEX - Technical Whitepaper
 
-# Table of Contents
-
 # Abstract
 Blockchain technology and decentralized computing could potentially be more transformative than the internet itself.  Bitcoin and Ethereum mark an important evolution where computer processes and value transferral are decentralized and nacient systems will evolve at an exponentail pace.   
 
