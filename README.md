@@ -1,26 +1,41 @@
+
 # APEX
-APEX Repository
+APEX represents an evolution in the blockchain ecosystem whereby a present and evolving intelligence system will determine the best course for creation, distribution and redemption of smart tokens.
 
-
-# Resources
-
-[Whitepaper](https://github.com/apex-ai/proto/blob/master/technical-whitepaper.md)
-
-# Apex Concepts
-
-
-
-# APEX Protocols
-
-
+APEX defines the structure for the implementation of Xepa protocols into token marketplaces.  
 
 # Xepa - The Smart Contract Bot
+Xepa is a set of protocols for the creation of utilitarian smart contracts. 
 
+# Resources
+[Whitepaper](https://github.com/apex-ai/proto/blob/master/technical-whitepaper.md)
 
-- [Background](#background)
-- [Requirements for Blockchain Applications](#requirements-for-blockchain-applications)
-  * [Support Millions of Users](#support-millions-of-users)
-  * [Free Usage](#free-usage)
-  * [Easy Upgrades and Bug Recovery](#easy-upgrades-and-bug-recovery)
-  * [Low Latency](#low-latency)
-  * [Sequential Performance](#sequential-performance)
+# APEX Concepts
+
+# APEX Protocols
+Protocols are described in the [Technical Whitepaper](https://github.com/apex-ai/proto/blob/master/technical-whitepaper.md)
+
+# Marketplaces
+## APEX Token Marketplace
+APEX for token creation, distribution and redemption
+## APEX Influencer Exchange
+APEX for brands and influencers
+[AIX Whitepaper](https://github.com/APEX-AI/Docs/blob/master/aix-whitepaper.md)
+## Future Marketplaces
+### APEX Ad Exchange
+APEX for ads
+### APEX Investments
+APEX for finance
+#### Derivatives
+#### Debt
+#### Commodities
+#### Equity
+### APEX Real Estate
+APEX for Real Estate
+### APEX Pharma
+APEX for the prescription sector
+### APEX Travel
+APEX for the travel sector
+### APEX Play
+Fun and leisure related economies
+
