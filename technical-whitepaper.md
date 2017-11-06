@@ -91,17 +91,11 @@ A contract can be created where several parties agree to the release of funds, s
 
 ### Gambling
 
-There's something to gaming.
+An application can create gambling services with near zero fees with no room for cheating.
 
-5. Cloud computing. The EVM technology can also be used to create a verifiable computing environment, allowing users to ask others to carry out computations and then optionally ask for proofs that computations at certain randomly selected checkpoints were done correctly. This allows for the creation of a cloud computing market where any user can participate with their desktop, laptop or specialized server, and spot-checking together with security deposits can be used to ensure that the system is trustworthy (ie. nodes cannot profitably cheat). Although such a system may not be suitable for all tasks; tasks that require a high level of inter-process communication, for example, cannot easily be done on a large cloud of nodes. Other tasks, however, are much easier to parallelize; projects like SETI@home, folding@home and genetic algorithms can easily be implemented on top of such a platform.
+### Other Uses
 
-6. Peer-to-peer gambling. Any number of peer-to-peer gambling protocols, such as Frank Stajano and Richard Clayton's Cyberdice, can be implemented on the Ethereum blockchain. The simplest gambling protocol is actually simply a contract for difference on the next block hash, and more advanced protocols can be built up from there, creating gambling services with near-zero fees that have no ability to cheat.
-
-7. Prediction markets. Provided an oracle or SchellingCoin, prediction markets are also easy to implement, and prediction markets together with SchellingCoin may prove to be the first mainstream application of futarchy as a governance protocol for decentralized organizations.
-
-8. On-chain decentralized marketplaces, using the identity and reputation system as a base.
-
-
+Blockchain appliations actually have the ability to execute any code with the caveat that each node will have to execute the same code everytime the chain is traversed.  This creates an interesting dillema for smart contracts architects.  Providing answers to singleton functions is one of the many rewards awaiting algorithm architects.
 
 # APEX Overview
 APEX looks to add introspection to the blockchain specifically to the distribution and redemption of digital tokens where the actors exchange value for consideration.
@@ -117,7 +111,6 @@ There are a number of functions performed by APEX that don't lend to decentraliz
 ### Discovery
 
 APEX allows deep discovery of actors and consideration.  When looking for token placement Xepa will identify potential token buyers and call their redeem() method. The redeem function will notify the app that there is an item available for redemption.  The app can do nothing, save the items in the call for use later, and/or respond with a purchase through the send() protocol.
-
 
 # Xepa - The smart contract bot
 
