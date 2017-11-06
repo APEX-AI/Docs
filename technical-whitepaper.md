@@ -114,23 +114,23 @@ APEX allows deep discovery of actors and consideration.  When looking for token 
 
 # Xepa - The smart contract bot
 
-## Xepa Techniques
-### NLP
+### Xepa Techniques
+#### NLP
 Given specific inputs Xepa can perform basic actions.  Like most bots, Xepa will ask questions to fill in holes.
 
-### Deep reinforcement learning
+#### Deep reinforcement learning
 
 
-### Algorithm Injection
+#### Algorithm Injection
 The APEX AI known as Xepa is a shell that accepts protocols injections from algorithm architects.  In laymans terms XEPA can be thought of as an algorythm choosing mechanism that is loosely coupled to the algorithm itself.  Any particular algorythm can be injected into any smart contract at the time of creation or later on.
 
-### Model Determination
+#### Model Determination
 A contract model is a fully-formed set of protocol paramaters with a given orientation.  An algorithm match is made when an algorythm with a simulation score of 78 or better matches the input paramaters for a new smart contract.  A "parameter" match will always be selected before a "close" match because it's impossible to weight the missing paramater given a particual ecosystem.
 
-### Model Evolution
+#### Model Evolution
 A model may evolve over time and in a fashion similar to git-hub may be rolled backwards or forwards.  This is different than remodeling.  Remodeling occurs when a system consistently fails to uphold model standards or thresholds.
 
-### Algorithm Architects
+#### Algorithm Architects
 Architects are paid in AIT when their algorythms match a set of inputs to create a smart contract.  This "match" is the output of the algorythm in the form of a smart contract with accompanying protocols.
 
 
@@ -193,7 +193,7 @@ New values can be added through the add_value() protocol
 ### Xepa Bot (web, ios, android)
 ### AIX (APEX influencer exchange)
 
-# Stretch Goals
+## Stretch Goals
 
 ### 20m - Xepa Spoken Interface
 Xepa will adopt the a spoken voice voice of a young british lady.
