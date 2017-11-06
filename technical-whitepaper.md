@@ -20,7 +20,7 @@ The rest of this document assumes a working knowledge of blockchain, cryptocurre
 
 ## Technology
 
-If you were to design an AI system that created smart contracts would probably consider previous uses of AI's that...
+If you were to design an AI system that created smart contracts it would probably consider previous uses of AI's that...
 - Write software
 - Transact assets in finance
 - Optimize marketplaces
