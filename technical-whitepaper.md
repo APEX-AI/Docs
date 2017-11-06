@@ -12,15 +12,15 @@ In addition to protocols, the APEX AI known as Xepa combines NLP, machine learni
 - Xepa replies "Great!, how many fans does Katy Perry have on Instagram?". 
 
 "Xepa, I'd like to create a conract for my office to pool money for lunch."  
-Xepa replies - "Great, how many people are hungry and how much does everyone spend on lunch?"  
+- Xepa replies - "Great, how many people are hungry and how much does everyone spend on lunch?"  
 
-Eventually, Xepa could be used for transactions "Xepa, please send 20 BTC to Satoshi Nakamoto as a thank you for creating the blockchain."  
+Eventually, Xepa could be used for transactions "Xepa, please send 20 BTC to Satoshi Nakamoto as a thank you for creating the blockchain."
 
 The rest of this document assumes a working knowledge of blockchain, cryptocurrency, artificial intelligence including subsets of AI such as NLP, machine-learning and deep-learning.
 
 ## Technology
 
-If you were to design an AI system that both created and optimized crypto economies you would probably consider previous uses of AI's that...
+If you were to design an AI system that created smart contracts would probably consider previous uses of AI's that...
 - Write software
 - Transact assets in finance
 - Optimize marketplaces
@@ -40,7 +40,6 @@ Defining the problem.  Where Ethereum is solving a technical problem known as "d
 Scientists who develop AI are providing a valuable resource from which value can be extracted.
 
 [Andrew Ng comment]
-
 
 
 ### Modeling and Deep Learning
@@ -71,33 +70,53 @@ def send(to, value, from_who, for_what)
 The main takeaway that we're extending the Ethereum send() function to include actors and consideration.  Because Ethereum addresses the underlying protocol for sending including accounting and trustworthyness our goals are introspective to "understand" what is being traded for what by whom. 
 
 ### Identity and Scoring
-
 You can create naming and scoring systems using a public database alongside other data. Other use cases include email authentication and potentially more advanced reputation systems. Here is the basic contract to provide a Namecoin-like name registration system on Ethereum.
 
 def register(name, value, profile)
 
 Again, we're looking to extend the functionality of Ethereum with introspection.  Identity systems can provide functions like  reputation.  APEX provides a service of identity matching that allows actor profiles to be combined and used throughout the APEX ecosystem.  
 
-### Storage
+### Decentralized Organizations
+A smart contract for an organization where members get rights to spend entity funds and agree on projects.  The big idea is that generally every rule of governance can be articulated in a smart contract and whatever procedures that can go into a smart contract can be included in a Xepa algorythm.
 
-You can run decentralized storage systems like dropbox where 
+DAO's are becoming quite popular.  [What is Empathy?] (https://en.wikipedia.org/wiki/Decentralized_autonomous_organization)
+
+### Wallets
+
+Applications for wallets with holding and annunity functions.  For instance setting the maximum withdrawl limit per day or having a joint set of instructions that allow the release of funds. to withdraw.
+
+### Multisignature Escrow
+
+A contract can be created where several parties agree to the release of funds, similar to a DAO.  
+
+### Gambling
+
+There's something to gaming.
+
+5. Cloud computing. The EVM technology can also be used to create a verifiable computing environment, allowing users to ask others to carry out computations and then optionally ask for proofs that computations at certain randomly selected checkpoints were done correctly. This allows for the creation of a cloud computing market where any user can participate with their desktop, laptop or specialized server, and spot-checking together with security deposits can be used to ensure that the system is trustworthy (ie. nodes cannot profitably cheat). Although such a system may not be suitable for all tasks; tasks that require a high level of inter-process communication, for example, cannot easily be done on a large cloud of nodes. Other tasks, however, are much easier to parallelize; projects like SETI@home, folding@home and genetic algorithms can easily be implemented on top of such a platform.
+
+6. Peer-to-peer gambling. Any number of peer-to-peer gambling protocols, such as Frank Stajano and Richard Clayton's Cyberdice, can be implemented on the Ethereum blockchain. The simplest gambling protocol is actually simply a contract for difference on the next block hash, and more advanced protocols can be built up from there, creating gambling services with near-zero fees that have no ability to cheat.
+
+7. Prediction markets. Provided an oracle or SchellingCoin, prediction markets are also easy to implement, and prediction markets together with SchellingCoin may prove to be the first mainstream application of futarchy as a governance protocol for decentralized organizations.
+
+8. On-chain decentralized marketplaces, using the identity and reputation system as a base.
 
 
 
 # APEX Overview
 APEX looks to add introspection to the blockchain specifically to the distribution and redemption of digital tokens where the actors exchange value for consideration.
 
-# Scope of Operations
+### Scope of Operations
 
 Xepa is a protocol on top of blockchain technology, it is not looking to recommend changes to the underlying blockchain consensus algorythm or any other inner-workings of the blockchain itself.
 
-# A Hybrid System
+### A Hybrid System
 
 There are a number of functions performed by APEX that don't lend to decentralization.  Number one is that maintaining a database isn't a good use of decentralized computing.
 
-# Discovery
+### Discovery
 
-APEX allows deep discovery of services throughout the 
+APEX allows deep discovery of actors and consideration.  When looking for token placement Xepa will identify potential token buyers and call their redeem() method. The redeem function will notify the app that there is an item available for redemption.  The app can do nothing, save the items in the call for use later, and/or respond with a purchase through the send() protocol.
 
 
 # Xepa - The smart contract bot
@@ -105,7 +124,6 @@ APEX allows deep discovery of services throughout the
 ## Xepa Techniques
 ### NLP
 Given specific inputs Xepa can perform basic actions.  Like most bots, Xepa will ask questions to fill in holes.
-
 
 ### Deep reinforcement learning
 
@@ -125,10 +143,8 @@ Architects are paid in AIT when their algorythms match a set of inputs to create
 
 # Protocols
 
-### create()
+### create(name, sym, amount, for_what, for_whom)
 Recommend smart contracts based on capital needs & market demand
-
-#### Sample Input
 
 '''
 create({'actor':{'name':'Katy Perry', 'aid':'kDy4Yu7rBwhmWFpuk6CFBbjPjFa2', 'audience_size': 100000000, 'vibrancy':23, 'engagement':78}, 'consideration': 'Merchandise', 'volume': 200000, 'platform': 'Ethereum' })
@@ -136,15 +152,19 @@ create({'actor':{'name':'Katy Perry', 'aid':'kDy4Yu7rBwhmWFpuk6CFBbjPjFa2', 'aud
 
 Output will result in a smart contract that implements the send() and redeem() protocols
 
-### send()
+### send(to, value, to_whom, from_whom, for_what)
 Optimize placement opportunities for token distribution
 
 ### redeem()
 Accept tokens in return for some consideration
 
-# Protocol Paramaters
-Protocol paramaters are an array of key-value pairs.
-[{key:value}]
+# Protocol Parameters
+All protocol parameters come in the form of an array
+
+for_what: [aic] - Array of consideration and/or consideration group Id's
+for_whom: [aid] - Array of actor and/or actor group Id's
+to_whom: [aid] - Array of actor and/or actor group Id's
+from_whom: [aid] - Array of actor and/or actor group Id's
 
 
 # Actors (aid - APEX Identity)
@@ -182,19 +202,44 @@ New values can be added through the add_value() protocol
 
 # Stretch Goals
 
-### 10m - Xepa Markets - Marketplaces
-APEX will open 3 token marketplaces similar to AIX.
-### 25m - Xepa NLP - Spoken Interface
-Xepa will adopt the voice of an young british lady.
-### 50m - APEX Exchange (Xepa wallet & transfers)
-"Xepa, please send 10 Ether to John for lunch."
-### 100m - IoT connectors
-APEX will define a series of connections for the internet of things economy.
-### 200m - Distributed deep-learning computing platform (Ethereum for deep-learning)
+### 20m - Xepa Spoken Interface
+Xepa will adopt the a spoken voice voice of a young british lady.
+### 35m - APEX Marketplaces
+APEX will open 3 marketplaces  
+- Entertainment
+- Travel & Recreation
+- Virtual Goods
+### 50m - APEX Exchange & Wallet
+Xepa will become an exchange similar to coinbase with a spoken interface.  "Xepa, please send 10 Ether to John for lunch."
+### 60m - VR & Augmented Reality Connectors
+APEX will design a series of protocols to create smart contracts in VR.  
+### 70m - Robotics Connectors
+Xepa will gain the ability to natively communicate with popular robotics platforms.
+### 80m - IoT connectors
+Xepa will connect to your toaster and fridge.  "You may have your coffee when 75% of you are thirsty."
+### 90m - Creativity Connectors
+Xepa will get her groove on with vision, music, art and dance protocols.  You could organize a flash mob or a nationwide art project.
+### 100m - APEX Marketplaces
+APEX will open 5 more marketplaces  
+- Finance
+- Pharma
+- AI
+- Entertainment
+- Jobs
+### 125m - Self Driving Car Connectors
+Xepa will get behind the wheel.  One use could be to create an Uber competitor.
+### 150m - Real Estate
+APEX will design a series of protocols for buying and transfering physical property.
+### 175m - Physical Space Connectors
+APEX will design a series of protocols that describe the physical world.  Practical applications maybe a preservation system for a wildlife refuge.
+### 200m - Physical Space Connectors
+APEX will design a series of protocols that describe the physical world.  Practical applications maybe a preservation system for a wildlife refuge.
+### 250m - Distributed deep-learning computing platform (Ethereum for deep-learning)
 We will build a blockchain where miners earn gas for performing deep-learning processes.
 
 
-#### References
+
+### References
 1. Smart Contracts: Building Blocks for Digital Markets http://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/smart_contracts_2.html
 2.
 3.
