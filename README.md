@@ -33,21 +33,3 @@ Profiles for buyers and seller
 # APEX Protocols
 Protocols are described in the [Technical Whitepaper](https://github.com/apex-ai/proto/blob/master/technical-whitepaper.md)
 
-# Marketplaces
-## APEX Token Marketplace
-APEX for token creation, distribution and redemption
-## APEX Influencer Exchange
-APEX for brands and influencers
-[AIX Whitepaper](https://github.com/APEX-AI/Docs/blob/master/aix-whitepaper.md)
-## Future Marketplaces
-### APEX Ad Exchange
-### APEX Investments
-#### Derivatives
-#### Debt
-#### Commodities
-#### Equity
-### APEX Real Estate
-### APEX Pharma
-### APEX Travel
-### APEX Play
-
