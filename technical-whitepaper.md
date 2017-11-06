@@ -1,5 +1,5 @@
 
-# APEX - Technical Whitepaper
+APEX - Technical Whitepaper
 
 # An intelligent system for creating distributed applications
 Bitcoin and Ethereum mark an important evolution in computer science.  You wouldn't say this five years ago, but today it's not hard to imagine blockchain technology being just as transformative as the internet itself.  Decentralized computing made possible by distributed consensus will propel nacient systems to evolve at an exponential pace.  
