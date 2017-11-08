@@ -11,18 +11,18 @@ In addition to protocols, the APEX AI known as Xepa combines NLP, machine learni
 "Xepa, I'd like a create a contract for Katy Perry to offer merchandise to her fans." 
 - Xepa replies "Great!, how many fans does Katy Perry have on Instagram?". 
 
-"Xepa, I'd like to create a conract for my office to pool money for lunch."  
+"Xepa, I'd like to create a contract for my office to pool money for lunch."  
 - Xepa replies - "Great, how many people are hungry and how much does everyone spend on lunch?"  
 
 Eventually, Xepa could be used for transactions "Xepa, please send 20 BTC to Satoshi Nakamoto as a thank you for creating the blockchain."
 
-Although many will use the front-facing side of Xepa, it's really just icing on the cake.  The APEX ecosystem is layered is creating an ecosystem similar to Kaggle where the best algorythm will be introduced for any given problem.
+Although many will use the front-facing side of Xepa, it's really just icing on the cake.  The APEX ecosystem is creating an ecosystem similar to Kaggle where the best algorythm will be introduced for any given problem.
 
 The rest of this document assumes a working knowledge of blockchain, cryptocurrency, artificial intelligence including subsets of AI such as NLP, machine-learning and deep-learning.
 
 ## Technology
 
-If you were to design an AI system that created smart contracts it would probably consider previous uses of AI's that...
+If you were to design an AI system that created smart contracts you would likely research AI's that...
 - Write software
 - Transact assets in finance
 - Optimize marketplaces
