@@ -11,19 +11,19 @@ _600k left as of 11/19_
 
 20% discount
 
-100% token bonus
+95% token bonus
 
 ### $1m - 2.5m
 
 20% discount
 
-50% token bonus
+45% token bonus
 
 ## SAFT - Token Presale
 
 *early 2018*
 
-20-50% token bonus
+20-40% token bonus
 
 Register on the [Whitelist](http://doapex.com/#/tokensale)
 
