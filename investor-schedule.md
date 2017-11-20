@@ -5,6 +5,8 @@ APEX will take in three rounds of funding over the next 6 months.  The schedule 
 
 ## Seed Round - SAFE-T
 
+A Safe-T is comparable to a Y-Combinator safe note with an added token allocation.
+
 ### First $1m 
 
 _600k left as of 11/19_
@@ -35,3 +37,5 @@ Official token sale open to the public
 
 There will be no lockout period when AIT is listed.  All parties may trade their tokens freely from the day they are placed on the exchange.
  
+ 
+
