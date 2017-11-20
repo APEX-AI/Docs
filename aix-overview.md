@@ -38,8 +38,6 @@ For influencers, AIX provides a platform to present themselves to global brand m
 
 The Market
 
-The Team
-
 The Technology
 
 Building AIX 
@@ -49,12 +47,6 @@ Launching AIX
 Marketing AIX
 
 Monetizing AIX
-
-Capital Requirements
-
-Use of Proceeds
-
-
 
 
 ## Token Economics
