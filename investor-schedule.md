@@ -7,9 +7,7 @@ APEX will take in three rounds of funding over the next 6 months.  The schedule 
 
 A Safe-T is comparable to a Y-Combinator safe note with an added token allocation.
 
-### First $1m 
-
-_600k left as of 11/19_
+### First $1m (_600k left as of 11/19_)
 
 20% discount
 
