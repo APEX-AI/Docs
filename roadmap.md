@@ -3,27 +3,21 @@
 
 There's no time like the present!
 
-## Q1 - 2017
+## Q2 - 2017
 
 ### AI Influencer Prediction Model
 
-The team at Tagger Media completes an influencer prediction algorithm that can accurately forecast 60 - 90 days into the future.  
+Tagger Media is perfecting an influencer prediction algorithm that can accurately forecast 60 - 90 days into the future.  
 
-## Q2 - 2017
+## Q3 - 2017
 
 ### APEX 
 
 APEX is created as a way to bridge the blockchain with the real world.
 
-## Q3 - 2017
-
-### AIX
-
-Work begins on the APEX Influencer Exchange.  
-
 ## Q4 - 2017
 
-### AI Marketplaces
+### APEX Influencer Exchange
 
 APEX begins work on the first AI marketplace for influencers introducing protocols whereby other MCN's, agencies and influencer networks can hook in at the programmatic, data, and retail secions.
 
