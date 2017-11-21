@@ -1,7 +1,7 @@
 
 # APEX - Roadmap
 
-This document contains the highest level overview for the next 18 months.
+Here is the view from 10,000 feet.  Please zoom in to see the terrain in more detail.
 
 ## Q2 - 2017
 
