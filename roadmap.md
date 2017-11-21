@@ -17,7 +17,7 @@ APEX is created as a way to bridge the blockchain with the real world.
 
 ## Q4 - 2017
 
-### APEX Influencer Exchange
+### AIX
 
 APEX begins work on the first AI marketplace for influencers introducing protocols whereby other MCN's, agencies and influencer networks can hook in at the programmatic, data, and retail secions.
 
