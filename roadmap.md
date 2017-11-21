@@ -7,7 +7,7 @@ Here is the view from 10,000 feet.  Please zoom in to see the terrain in more de
 
 ### AI Influencer Prediction Model
 
-Tagger Media is perfecting an influencer prediction algorithm that can accurately forecast 60 - 90 days into the future.  
+Tagger Media creates an AI that can accurately forecast influence 60 - 90 days into the future.  
 
 ## Q3 - 2017
 
