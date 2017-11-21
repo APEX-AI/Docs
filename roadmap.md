@@ -33,7 +33,7 @@ Influencers and Brands will be able to purchase and redeem AIT (Artificial Intel
 
 ### XEPA - AI for Smart Contracts 
 
-XEPA will enter into the public to create smart contracts for exclusive relationships between brands and influencers.
+XEPA will make her first public appearance to create smart contracts for exclusive relationships between brands and influencers.
 
 ## Q2 - 2018
 
