@@ -1,5 +1,5 @@
 
-# APEX Investor Schedule
+# APEX Fundraising Schedule
 
 APEX will take in three rounds of funding over the next 6 months.  The schedule is as follows:
 
