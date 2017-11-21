@@ -13,13 +13,13 @@ The team at Tagger Media completes an influencer prediction algorithm that can a
 
 ### APEX 
 
-APEX is created.  
+APEX is created as a way to bridge the blockchain with the real world.
 
 ## Q3 - 2017
 
-### Token Marketplace 
+### AIX
 
-APEX is created.  
+Work begins on the APEX Influencer Exchange.  
 
 ## Q4 - 2017
 
@@ -29,9 +29,13 @@ APEX begins work on the first AI marketplace for influencers introducing protoco
 
 ## Q1 - 2018
 
-### AIX 
+### AIX Marketplace
 
 The APEX Influencer Exchange will go live with 100k+ Influencers and 1,000+ Brands.  
+
+### AIX Wallet
+
+Influencers and Brands will be able to purchase and redeem AIT (Artificial Intelligence Tokens) through their AIX Wallet.
 
 ### XEPA - AI for Smart Contracts 
 
