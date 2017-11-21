@@ -1,7 +1,7 @@
 
-# APEX - Imagine the Future!
+# APEX - Roadmap
 
-There's no time like the present!
+This document contains the highest level overview for the next 18 months.
 
 ## Q2 - 2017
 
