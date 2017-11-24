@@ -1,12 +1,40 @@
-
-APEX - Technical Whitepaper
-
-# An intelligent system for creating distributed applications
+# APEX - Technical Whitepaper
+## An intelligent system for creating & optimizing distributed applications (dapps)
 Bitcoin and Ethereum mark an important evolution in computer science.  You wouldn't say this five years ago, but today it's not hard to imagine blockchain technology being just as transformative as the internet itself.  Decentralized computing made possible by distributed consensus will propel nacient systems to evolve at an exponential pace.  
 
-APEX represents an evolution in the blockchain ecosystem whereby a present and evolving intelligence system will determine the best course for creation, distribution and redemption of smart tokens.  In practice, APEX is an extension to a smart contract that adds protocols for introspection into token economies for the purpose of creating intelligent systems.
+APEX represents an evolution in the blockchain ecosystem whereby a present and evolving intelligence system will determine the best course for creation, distribution and redemption of smart tokens.  In practice, APEX protocols are an extension to a smart contract providing introspection for the purpose of discovery, use & creation of dapps.
 
-In addition to protocols, the APEX AI known as Xepa combines NLP, machine learning and deep learning to enable the creation of smart contracts and the transfer and redemption of tokens through text and voice.  
+Although many will use the front-facing side of Xepa, it's really just icing on the cake.  The APEX ecosystem is creating an ecosystem similar to Kaggle where the best algorithm will be introduced for any given problem.
+
+The rest of this document assumes a working knowledge of blockchain, cryptocurrency, artificial intelligence including subsets of AI such as NLP, machine-learning and deep-learning.
+
+## Blockchain Primer
+Smart contracts were originally proposed by Nick Szabo in 1996 when the Internet was gaining mass adoption. [Smart contracts](https://en.wikipedia.org/wiki/Smart_contract) are a set of promises, specified in digital form, that include protocols within which parties perform on these promises [<sup>[1]</sup>](https://en.wikipedia.org/wiki/Smart_contract#cite_note-:2-1) [Ethereum](https://github.com/ethereum/wiki/wiki/White-Paper) uses smart contracts as instructions for creating decentralized applications. 
+
+On stage at [Techcrunch Disrupt](https://techcrunch.com/2017/09/18/ethereum-will-replace-visa-in-a-couple-of-years-says-founder/) the founder of Ethereum Vitalik Buteri recently said "Ethereum will match Visa in scale in a couple of years".
+
+## AI Primer
+[Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) as a science dates back to 1956 with a multitude of disciplines spawning in thousands of directions since then.  
+
+The promise of AI is out of this world and yet hardly recognizable.  Most systems have yet to capture value from machine learning, deep learning, NLP and the like.  Cryptocurrency has shown to be effective in capturing value for open source projects specifically Bitcoin and Ethereum.  APEX will take this knowledge and apply it in a specific manner.
+
+Defining the problem.  Where Ethereum is solving a technical problem known as "distributed consensus" most AI systems don't have a technical problem.  Consider an autonomous driving car.  The problem is the car doesn't know how do anything to start with.  The solution is clear as day.  Get from point A to point B, stay on the road, don't hit anyone.  AI in this case is coming up with a technical answer to a non-technical challenge.
+
+[Andrew Ng comment]
+
+## APEX Blockchain
+APEX is a platform for the creation of dapps.  The APEX platform knowledge of dapps is commensurate with the [Ethereum whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper) and some parts of the [EOS whitepaper](https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md).   APEX itself has components that will dapps such as transaction history but should be thought of as a multi-faceted system designed to discover and optimize dapps a specific purpose but without a particular infrastructure.
+
+## APEX AI
+### Modeling and Deep Learning
+
+![](apex-technical-whitepaper/Hexagonal_Grids.jpg)
+
+[APEX Modeling strategy]
+
+### NLP
+
+In addition to protocols, the APEX AI known as Xepa uses NLP to provide common actions associated with dapps.
 
 "Xepa, I'd like a create a contract for Katy Perry to offer merchandise to her fans." 
 - Xepa replies "Great!, how many fans does Katy Perry have on Instagram?". 
@@ -16,49 +44,12 @@ In addition to protocols, the APEX AI known as Xepa combines NLP, machine learni
 
 Eventually, Xepa could be used for transactions "Xepa, please send 20 BTC to Satoshi Nakamoto as a thank you for creating the blockchain."
 
-Although many will use the front-facing side of Xepa, it's really just icing on the cake.  The APEX ecosystem is creating an ecosystem similar to Kaggle where the best algorythm will be introduced for any given problem.
-
-The rest of this document assumes a working knowledge of blockchain, cryptocurrency, artificial intelligence including subsets of AI such as NLP, machine-learning and deep-learning.
-
-## Technology
-
-If you were to design an AI system that created smart contracts you would likely research AI's that...
-- Write software
-- Transact assets in finance
-- Optimize marketplaces
-
-### Blockchain
-Smart contracts were originally proposed by Nick Szabo in 1996 when the Internet was gaining mass adoption. [Smart contracts](https://en.wikipedia.org/wiki/Smart_contract) are a set of promises, specified in digital form, that include protocols within which parties perform on these promises [<sup>[1]</sup>](https://en.wikipedia.org/wiki/Smart_contract#cite_note-:2-1) [Ethereum](https://github.com/ethereum/wiki/wiki/White-Paper) uses smart contracts as instructions for creating decentralized applications. 
-
-On stage at [Techcrunch Disrupt](https://techcrunch.com/2017/09/18/ethereum-will-replace-visa-in-a-couple-of-years-says-founder/) the founder of Ethereum Vitalik Buteri recently said "Ethereum will match Visa in scale in a couple of years".
-
-### Artificial Intelligence
-[Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) as a science dates back to 1956 with a multitude of disciplines spawning in thousands of directions since then.  
-
-The promise of AI is out of this world and yet hardly recognizable.  Most systems have yet to capture value from machine learning, deep learning, NLP and the like.  Cryptocurrency has shown to be effetive in capturing value for open source projects specificially Bitcoin and Ethereum.  APEX will take this knowledge and apply it in a specific manner.
-
-Defining the problem.  Where Ethereum is solving a technical problem known as "distributed consensus" most AI systems don't have a technical problem.  Consider an autonomous driving car.  The problem is the car doesn't know how do anything to start with.  The solution is clear as day.  Get from point A to point B, stay on the road, don't hit anyone.  AI in this case is coming up with a technical answer to a non-technical challenge.
-
-Scientists who develop AI are providing a valuable resource from which value can be extracted.
-
-[Andrew Ng comment]
-
-
-### Modeling and Deep Learning
-
-[Modeling strategies]
-
-[APEX Modeling strategy]
-
 
 ### Philosophy
 We are well beyond questioning if a machine can [act intelligently] (https://en.wikipedia.org/wiki/Philosophy_of_artificial_intelligence). Our intent of introducing philosophy is to take into account a deeper examination of our humanity to establish rules that govern a system that creates another system.
 
-Our first rule is empathy.  Here's why.
-
-
-#### Empathy
 Empathy is a relatively new development in AI as stated by the Kairos article by Gabriella Leone [What is Empathy?] (https://www.kairos.com/blog/empathy-in-ai-series-part-1-what-is-empathy).  Aside from the buisiness application such as for chat bots for Mental Health, empathy is of far greater importance to an application tasked at creating other applications.  An average application would resemble something like Wall-e from Disney and at the extereme an empathetic terminator would be more like Dexter.  It is our position that all AI systems should employ empathy so they take into account the positive and potentially adverse effects of their actions.
+
 
 
 # Types of Smart Contract Applcations
@@ -115,25 +106,24 @@ There are a number of functions performed by APEX that don't lend to decentraliz
 APEX allows deep discovery of actors and consideration.  When looking for token placement Xepa will identify potential token buyers and call their redeem() method. The redeem function will notify the app that there is an item available for redemption.  The app can do nothing, save the items in the call for use later, and/or respond with a purchase through the send() protocol.
 
 # Xepa - The smart contract bot
-
-### Xepa Techniques
-#### NLP
+## Xepa Techniques
+### NLP
 Given specific inputs Xepa can perform basic actions.  Like most bots, Xepa will ask questions to fill in holes.
 
-#### Deep reinforcement learning
+### Deep reinforcement learning
 
 
-#### Algorithm Injection
+### Algorithm Injection
 The APEX AI known as Xepa is a shell that accepts protocols injections from algorithm architects.  In laymans terms XEPA can be thought of as an algorythm choosing mechanism that is loosely coupled to the algorithm itself.  Any particular algorythm can be injected into any smart contract at the time of creation or later on.
 
-#### Model Determination
+### Model Determination
 A contract model is a fully-formed set of protocol paramaters with a given orientation.  An algorithm match is made when an algorythm with a simulation score of 78 or better matches the input paramaters for a new smart contract.  A "parameter" match will always be selected before a "close" match because it's impossible to weight the missing paramater given a particual ecosystem.
 
-#### Model Evolution
+### Model Evolution
 A model may evolve over time and in a fashion similar to git-hub may be rolled backwards or forwards.  This is different than remodeling.  Remodeling occurs when a system consistently fails to uphold model standards or thresholds.
 
-#### Algorithm Architects
-Architects are paid in AIT when their algorythms match a set of inputs to create a smart contract.  This "match" is the output of the algorythm in the form of a smart contract with accompanying protocols.
+### Algorithm Architects
+Architects are paid in AIT when their algorythms match a set of inputs to create a smart contract.  This "match" is the output of the algorithm in the form of a smart contract with accompanying protocols.
 
 
 # Protocols
@@ -181,22 +171,17 @@ New consideration can be added through the add_consideration() protocol
 
 
 # Actual Value (aiv - APEX Value)
-
 Protocols will contain references to an actual value for an item of consideration in any fiat or token currency.  The value at the time of a transaction will change overtime thus it's important to perform any fiat exchange operations and store them at the time of transaction.
 
 Similar to identities, considerations can be grouped. Usually a protocol will reference an identity group.  The group has it's own unique AID.  Multiple AID's can be used as parameters without exception.  
 
 New values can be added through the add_value() protocol
 
-
-
 # Roadmap
-
 ### Xepa Bot (web, ios, android)
 ### AIX (APEX influencer exchange)
 
 ## Stretch Goals
-
 ### 20m - Xepa Spoken Interface
 Xepa will adopt the a spoken voice voice of a young british lady.
 ### 35m - APEX Marketplaces
@@ -221,14 +206,8 @@ APEX will open 5 more marketplaces
 - AI
 - Entertainment
 - Jobs
-### 125m - Self Driving Car Connectors
-Xepa will get behind the wheel.  One use could be to create an Uber competitor.
 ### 150m - Real Estate
 APEX will design a series of protocols for buying and transfering physical property.
-### 175m - Physical Space Connectors
-APEX will design a series of protocols that describe the physical world.  Practical applications maybe a preservation system for a wildlife refuge.
-### 200m - Physical Space Connectors
-APEX will design a series of protocols that describe the physical world.  Practical applications maybe a preservation system for a wildlife refuge.
 ### 250m - Distributed deep-learning computing platform (Ethereum for deep-learning)
 We will build a blockchain where miners earn gas for performing deep-learning processes.
 
