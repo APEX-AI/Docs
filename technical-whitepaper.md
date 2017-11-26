@@ -1,38 +1,65 @@
-# APEX - Technical Whitepaper
-## An intelligent system for creating & optimizing distributed applications (dapps)
-Bitcoin and Ethereum mark an important evolution in computer science.  You wouldn't say this five years ago, but today it's not hard to imagine blockchain technology being just as transformative as the internet itself.  Decentralized computing made possible by distributed consensus will propel nacient systems to evolve at an exponential pace.  
+# APEX
+“A lack of transparency results in distrust and a deep sense of insecurity” - Dalai Lama
 
-APEX represents an evolution in the blockchain ecosystem whereby a present and evolving intelligence system will determine the best course for creation, distribution and redemption of smart tokens.  In practice, APEX protocols are an extension to a smart contract providing introspection for the purpose of discovery, use & creation of dapps.
+_Abstract: The promise of AI is a brighter tomorrow, however It is deeply troubling that many AI systems created, such as Google’s deep mind, have shown signs of evolution beyond human comprehension.  These systems may be valuable for a stated purpose, but for the purpose of General AI, we should not create machines that rapidly eclipse our level of knowledge._
 
-Although many will use the front-facing side of Xepa, it's really just icing on the cake.  The APEX ecosystem is creating an ecosystem similar to Kaggle where the best algorithm will be introduced for any given problem.
+_APEX creates (human understandable) real world connections to decentralized systems.  The APEX Protocol is an extension to smart contracts that allows for data and actor introspection.  Learned data is stored and analyzed in a queryable, open-source knowledgebase accessable by AIT’s (Artificial Intelligence Tokens)._
 
-The rest of this document assumes a working knowledge of blockchain, cryptocurrency, artificial intelligence including subsets of AI such as NLP, machine-learning and deep-learning.
+_The benefits of AI can immediately be applied to face the challenges decentralized applications (Dapps) face in three ways.  First, discovery of services and effectiveness of services rendered.  APEX has developed open-source protocols for that enable the discovery & inter-operability between smart contracts.  Second, APEX combines introspection and data clustering to do predictive placement analysis and optionally self-executing discovery.  Third, the APEX vision is to connect smart contracts to the real world and through human understandable connections.  The APEX Influencer Marketplace (AIX) implements APEX protocols and forms the foundation for a transparent and human friendly General AI._
 
-## Blockchain Primer
-Smart contracts were originally proposed by Nick Szabo in 1996 when the Internet was gaining mass adoption. [Smart contracts](https://en.wikipedia.org/wiki/Smart_contract) are a set of promises, specified in digital form, that include protocols within which parties perform on these promises [<sup>[1]</sup>](https://en.wikipedia.org/wiki/Smart_contract#cite_note-:2-1) [Ethereum](https://github.com/ethereum/wiki/wiki/White-Paper) uses smart contracts as instructions for creating decentralized applications. 
+This document assumes a basic knowledge of blockchain, cryptocurrency, artificial intelligence including subsets of AI such as NLP, machine-learning and deep-learning.  Areas marked with _Advanced!_ will go into far greater detail.
+
+## Background
+Just around the time the internet was picking up steam a person by the name of Nick Szabo had an idea for a computer based, self-executing legal document — a Smart Contract. [Smart Contracts](https://en.wikipedia.org/wiki/Smart_contract) are a set of promises, specified in digital form, that include protocols within which parties perform on these promises [<sup>[1]</sup>](https://en.wikipedia.org/wiki/Smart_contract#cite_note-:2-1) 
+
+In 2009 an unknown person going by the alias Satoshi Nakamoto created Bitcoin.  A digital ledger of sorts that’s primary use is to transfer value.  Using peer to peer networks (similar to torrents that powered the once popular Napster) the genius is it’s simplicity.  There’s no governing agency — the only basis for it’s value is implicit scarcity created through a math formula.  At the time of this writing Bitcoin is valued at $8274.50USD.  
+
+[Ethereum](https://github.com/ethereum/wiki/wiki/White-Paper) is a combination of blockchain and smart contracts.  A self-executing set of decentralized systems designed to transfer value from one party to another given a set of conditions (transfer X from party A to party B when XYZ). 
+
+Ethereum and future platforms such as EOS uses a form of  [distributed consensus](https://en.wikipedia.org/wiki/Consensus_(computer_science)) that will propel nascent systems to evolve at an exponential pace.  
 
 On stage at [Techcrunch Disrupt](https://techcrunch.com/2017/09/18/ethereum-will-replace-visa-in-a-couple-of-years-says-founder/) the founder of Ethereum Vitalik Buteri recently said "Ethereum will match Visa in scale in a couple of years".
 
-## AI Primer
-[Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) as a science dates back to 1956 with a multitude of disciplines spawning in thousands of directions since then.  
+## APEX connects the real world to smart contracts
+APEX represents an evolution in the blockchain ecosystem whereby a present and evolving intelligence system will determine the best course for creation, distribution and optimization of dapps and dapp transactions.  
 
-The promise of AI is out of this world and yet hardly recognizable.  Most systems have yet to capture value from machine learning, deep learning, NLP and the like.  Cryptocurrency has shown to be effective in capturing value for open source projects specifically Bitcoin and Ethereum.  APEX will take this knowledge and apply it in a specific manner.
+The APEX platform is a wrapper for blockchain based smart contracts on [Ethereum whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper) and [EOS whitepaper](https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md).   APEX protocols extend smart contract functions to provide introspection for the purpose of providing a variety of AI functions by understanding the actors and consideration for transactions.  APEX systems provide a way to programmatically and visually query the raw database, learned clusters and predictive matching functions using AIT’s. 
 
-Defining the problem.  Where Ethereum is solving a technical problem known as "distributed consensus" most AI systems don't have a technical problem.  Consider an autonomous driving car.  The problem is the car doesn't know how do anything to start with.  The solution is clear as day.  Get from point A to point B, stay on the road, don't hit anyone.  AI in this case is coming up with a technical answer to a non-technical challenge.
+With the introduction of AIX, APEX has taken an unprecedented step toward creating a human understandable General AI.   
 
-[Andrew Ng comment]
+## AIX - The APEX Influencer Marketplace
+The first implementation of the APEX protocols comes in the form of AIX.      AIX is a very special system as the learnings from AIX will create the foundation for the language-base used to describe all the model clusters available throughout the APEX ecosystem.
 
-## APEX Blockchain
-APEX is a platform for the creation of dapps.  The APEX platform knowledge of dapps is commensurate with the [Ethereum whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper) and some parts of the [EOS whitepaper](https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md).   APEX itself has components that will dapps such as transaction history but should be thought of as a multi-faceted system designed to discover and optimize dapps a specific purpose but without a particular infrastructure.
+The Apex Influencer Exchange (AIX) is a Dapp that allows for the conception and execution of influencer messaging programs, complete with establish fair & transparent value metrics that provide unbiased and comprehensive attribution.
+
+## APEX Protocols
+### send()
+_An extension to send() on Ethereum_
+**params:**
+* to
+* value
+* to_whom
+* from_whom
+* for_what
+
 
 ## APEX AI
-### Modeling and Deep Learning
+### Philosophy
+It is our position that all AI systems should employ some form of empathy so they take into account the positive and potentially adverse effects of their actions.  An ancillary but important benefit of AIX will be to for Xepa to learn empathy.
+
+### Modeling & Deep Learning
 
 ![](apex-technical-whitepaper/Hexagonal_Grids.jpg)
 
-[APEX Modeling strategy]
+### Xepa - The Smart Contract AI
 
-### NLP
+The APEX ecosystem for creating dapps is similar to Kaggle where the best algorithm will be introduced to solve a given problem.
+
+Kaggle is a computer science simulator posing problems for computer scientists who’s algorithms are then scored to create a leaderboard.
+
+![](apex-technical-whitepaper/kaggle_leaderboard_-_Google_Search.jpg)
+
+Similar to Kaggle, APEX runs billions of deep-learning simulations for each submitted entry vs. our supervised model to whereby the winner’s model is injected for a given problem. 
 
 In addition to protocols, the APEX AI known as Xepa uses NLP to provide common actions associated with dapps.
 
@@ -45,66 +72,32 @@ In addition to protocols, the APEX AI known as Xepa uses NLP to provide common a
 Eventually, Xepa could be used for transactions "Xepa, please send 20 BTC to Satoshi Nakamoto as a thank you for creating the blockchain."
 
 
-### Philosophy
-We are well beyond questioning if a machine can [act intelligently] (https://en.wikipedia.org/wiki/Philosophy_of_artificial_intelligence). Our intent of introducing philosophy is to take into account a deeper examination of our humanity to establish rules that govern a system that creates another system.
+# Actors (aid - APEX Identity)
+Protocols can combine identities cross-sandbox through the use of a aid.  Specific identities can be useful when identifying identity groups, brands and tastemakers.  APEX will assign aid's to actors when available. 
 
-Empathy is a relatively new development in AI as stated by the Kairos article by Gabriella Leone [What is Empathy?] (https://www.kairos.com/blog/empathy-in-ai-series-part-1-what-is-empathy).  Aside from the buisiness application such as for chat bots for Mental Health, empathy is of far greater importance to an application tasked at creating other applications.  An average application would resemble something like Wall-e from Disney and at the extereme an empathetic terminator would be more like Dexter.  It is our position that all AI systems should employ empathy so they take into account the positive and potentially adverse effects of their actions.
+Usually a protocol will reference an identity group.  The group has it's own unique AID.  Multiple AID's can be used as parameters without exception.  XEPA will define a subset of identity groups to start with.  [Identity Groups](https://www.doapex.com)
+
+New actors can be added through the add_actor() protocol
 
 
+# Consideration (aic - APEX Consideration)
+Protocols will always have a reference to consideration.  Consideration is the actual item or service being exchanged for a token.  
 
-# Types of Smart Contract Applcations
+Similar to identities, considerations can be grouped.  The group has it's own unique AIC.  Multiple AIC's can be used as parameters without exception.  XEPA will define a subset of consideration groups to start with.  [Consideration Groups](https://www.doapex.com)
 
-### Marketplaces
-The most common use of APEX will be to create token systems that exchange goods and/or services for consideration. They are very easy to implement and increasingly valueable after deep-leaning optimization.  
+New consideration can be added through the add_consideration() protocol
 
-def create(name, symbol, amount, [item:value], for_whom)
-def send(to, value, from_who, for_what)
 
-The main takeaway that we're extending the Ethereum send() function to include actors and consideration.  Because Ethereum addresses the underlying protocol for sending including accounting and trustworthyness our goals are introspective to "understand" what is being traded for what by whom. 
+# Actual Value (aiv - APEX Value)
+Protocols will contain references to an actual value for an item of consideration in any fiat or token currency.  The value at the time of a transaction will change overtime thus it's important to perform any fiat exchange operations and store them at the time of transaction.
 
-### Identity and Scoring
-You can create naming and scoring systems using a public database alongside other data. Other use cases include email authentication and potentially more advanced reputation systems. Here is the basic contract to provide a Namecoin-like name registration system on Ethereum.
+Similar to identities, considerations can be grouped. Usually a protocol will reference an identity group.  The group has it's own unique AID.  Multiple AID's can be used as parameters without exception.  
 
-def register(name, value, profile)
+New values can be added through the add_value() protocol
 
-Again, we're looking to extend the functionality of Ethereum with introspection.  Identity systems can provide functions like  reputation.  APEX provides a service of identity matching that allows actor profiles to be combined and used throughout the APEX ecosystem.  
 
-### Decentralized Organizations
-A smart contract for an organization where members get rights to spend entity funds and agree on projects.  The big idea is that generally every rule of governance can be articulated in a smart contract and whatever procedures that can go into a smart contract can be included in a Xepa algorythm.
-
-DAO's are becoming quite popular.  [What is Empathy?] (https://en.wikipedia.org/wiki/Decentralized_autonomous_organization)
-
-### Wallets
-
-Applications for wallets with holding and annunity functions.  For instance setting the maximum withdrawl limit per day or having a joint set of instructions that allow the release of funds. to withdraw.
-
-### Multisignature Escrow
-
-A contract can be created where several parties agree to the release of funds, similar to a DAO.  
-
-### Gambling
-
-An application can create gambling services with near zero fees with no room for cheating.
-
-### Other Uses
-
-Blockchain appliations actually have the ability to execute any code with the caveat that each node will have to execute the same code everytime the chain is traversed.  This creates an interesting dillema for smart contracts architects.  Providing answers to singleton functions is one of the many rewards awaiting algorithm architects.
 
 # APEX Overview
-APEX looks to add introspection to the blockchain specifically to the distribution and redemption of digital tokens where the actors exchange value for consideration.
-
-### Scope of Operations
-
-Xepa is a protocol on top of blockchain technology, it is not looking to recommend changes to the underlying blockchain consensus algorythm or any other inner-workings of the blockchain itself.
-
-### A Hybrid System
-
-There are a number of functions performed by APEX that don't lend to decentralization.  Number one is that maintaining a database isn't a good use of decentralized computing.
-
-### Discovery
-
-APEX allows deep discovery of actors and consideration.  When looking for token placement Xepa will identify potential token buyers and call their redeem() method. The redeem function will notify the app that there is an item available for redemption.  The app can do nothing, save the items in the call for use later, and/or respond with a purchase through the send() protocol.
-
 # Xepa - The smart contract bot
 ## Xepa Techniques
 ### NLP
@@ -125,9 +118,7 @@ A model may evolve over time and in a fashion similar to git-hub may be rolled b
 ### Algorithm Architects
 Architects are paid in AIT when their algorythms match a set of inputs to create a smart contract.  This "match" is the output of the algorithm in the form of a smart contract with accompanying protocols.
 
-
 # Protocols
-
 ### create(name, sym, amount, for_what, for_whom)
 Recommend smart contracts based on capital needs & market demand
 
@@ -137,8 +128,7 @@ create({'actor':{'name':'Katy Perry', 'aid':'kDy4Yu7rBwhmWFpuk6CFBbjPjFa2', 'aud
 
 Output will result in a smart contract that implements the send() and redeem() protocols
 
-### send(to, value, to_whom, from_whom, for_what)
-Optimize placement opportunities for token distribution
+
 
 ### redeem()
 Accept tokens in return for some consideration
@@ -152,30 +142,7 @@ to_whom: [aid] - Array of actor and/or actor group Id's
 from_whom: [aid] - Array of actor and/or actor group Id's
 
 
-# Actors (aid - APEX Identity)
 
-Protocols can combine identities cross-sandbox through the use of a aid.  Specific identities can be useful when identifying identity groups, brands and tastemakers.  APEX will assign aid's to actors when available. 
-
-Usually a protocol will reference an identity group.  The group has it's own unique AID.  Multiple AID's can be used as parameters without exception.  XEPA will define a subset of identity groups to start with.  [Identity Groups](https://www.doapex.com)
-
-New actors can be added through the add_actor() protocol
-
-
-# Consideration (aic - APEX Consideration)
-
-Protocols will always have a reference to consideration.  Consideration is the actual item or service being exchanged for a token.  
-
-Similar to identities, considerations can be grouped.  The group has it's own unique AIC.  Multiple AIC's can be used as parameters without exception.  XEPA will define a subset of consideration groups to start with.  [Consideration Groups](https://www.doapex.com)
-
-New consideration can be added through the add_consideration() protocol
-
-
-# Actual Value (aiv - APEX Value)
-Protocols will contain references to an actual value for an item of consideration in any fiat or token currency.  The value at the time of a transaction will change overtime thus it's important to perform any fiat exchange operations and store them at the time of transaction.
-
-Similar to identities, considerations can be grouped. Usually a protocol will reference an identity group.  The group has it's own unique AID.  Multiple AID's can be used as parameters without exception.  
-
-New values can be added through the add_value() protocol
 
 # Roadmap
 ### Xepa Bot (web, ios, android)
