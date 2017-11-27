@@ -7,7 +7,7 @@ _APEX creates (human understandable) real world connections to decentralized sys
 
 _The benefits of AI can immediately be applied to face the challenges decentralized applications (Dapps) face in three ways.  First, discovery of services and effectiveness of services rendered.  APEX has developed open-source protocols that enable the discovery & inter-operability between smart contracts.  Second, APEX combines introspection and data clustering to do predictive placement analysis and optionally self-executing discovery.  Third, the APEX vision is to connect smart contracts to the real world and through human understandable connections.  The APEX Influencer Marketplace (AIX) implements APEX protocols and forms the foundation for a transparent and human friendly General AI._
 
-This document assumes a basic knowledge of blockchain, cryptocurrency, artificial intelligence including subsets of AI such as NLP, machine-learning and deep-learning.  Areas marked with _Advanced!_ will go into far greater detail.
+This whitepaper assumes a basic knowledge of blockchain, cryptocurrency, artificial intelligence including subsets of AI such as NLP, machine-learning and deep-learning.  Areas marked with _Advanced!_ will go into far greater detail.
 
 ## Background
 Just around the time the internet was picking up steam a person by the name of Nick Szabo had an idea for a computer based, self-executing legal document — a Smart Contract. [Smart Contracts](https://en.wikipedia.org/wiki/Smart_contract) are a set of promises, specified in digital form, that include protocols within which parties perform on these promises [<sup>[1]</sup>](https://en.wikipedia.org/wiki/Smart_contract#cite_note-:2-1) 
@@ -32,20 +32,20 @@ The difference between APEX and Google’s Deep Mind (a neural net - Monte Carlo
 
 A complex neural network _Diagram A_ uses hidden layers to simulate connections between neurons in a human brain.  Increasing the number of layers leads to an exponentailly growing number of abstractions.  
 
-![](apex-technical-whitepaper/F38911DF-81EA-4A14-9BAC-F49A724297C6.png)
+![](technical-whitepaper/F38911DF-81EA-4A14-9BAC-F49A724297C6.png)
 _Diagram A_
 
 It’s proven that General AI can be useful to draw conclusions & solve infinitely complex problems.  We want to introduce a system whereby language will explain said drawn conclusions method and teach us how the problem is being solved.  APEX contains a simulation engine connected to real-world human influence (AIX) to output a polygon based model that accurately assigns language to each connection. _Diagram B_ > _Diagram C_
 
-![](apex-technical-whitepaper/D3461D9B-7F45-4185-AB17-D3BFC6EE2A94.png)
+![](technical-whitepaper/D3461D9B-7F45-4185-AB17-D3BFC6EE2A94.png)
 _Diagram B_
 
-![](apex-technical-whitepaper/blocks.jpg)
+![](technical-whitepaper/blocks.jpg)
 _Diagram C_
 
 The neural net assigns weight to each connection.  The resulting output assumes a cohesive distance based on this weight.  Using polymath we can evenly and accurately display the resulting connections. 
 
-![](apex-technical-whitepaper/186A9C7E-3196-4250-AECF-256309B94D09.png)
+![](technical-whitepaper/186A9C7E-3196-4250-AECF-256309B94D09.png)
 _Diagram D_
 
 ## AIX - The APEX Influencer Exchange
@@ -79,9 +79,9 @@ It is our position that all AI systems should employ some form of empathy so the
 
 ### Modeling & Deep Learning
 
-![](apex-technical-whitepaper/Hexagonal_Grids.jpg)
+![](technical-whitepaper/Hexagonal_Grids.jpg)
 
-![](apex-technical-whitepaper/Hexagonal_Grids.jpg)
+![](technical-whitepaper/Hexagonal_Grids%201.jpg)
 
 
 
@@ -91,7 +91,7 @@ The APEX ecosystem for creating dapps is similar to Kaggle where the best algori
 
 Kaggle is a computer science simulator posing problems for computer scientists who’s algorithms are then scored to create a leaderboard.
 
-![](apex-technical-whitepaper/kaggle_leaderboard_-_Google_Search.jpg)
+![](technical-whitepaper/kaggle_leaderboard_-_Google_Search.jpg)
 
 Similar to Kaggle, APEX runs billions of deep-learning simulations for each submitted entry vs. our supervised model to whereby the winner’s model is injected for a given problem. 
 
