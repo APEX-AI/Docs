@@ -5,20 +5,18 @@ _Abstract: The promise of AI is a brighter tomorrow, however It is deeply troubl
 
 _APEX creates (human understandable) real world connections to decentralized systems.  The APEX Protocol is an extension to smart contracts that allows for data and actor introspection.  Learned data is stored and analyzed in a queryable, open-source knowledgebase accessable by AIT’s (Artificial Intelligence Tokens)._
 
-_The benefits of AI can immediately be applied to face the challenges decentralized applications (Dapps) face in three ways.  First, discovery of services and effectiveness of services rendered.  APEX has developed open-source protocols for that enable the discovery & inter-operability between smart contracts.  Second, APEX combines introspection and data clustering to do predictive placement analysis and optionally self-executing discovery.  Third, the APEX vision is to connect smart contracts to the real world and through human understandable connections.  The APEX Influencer Marketplace (AIX) implements APEX protocols and forms the foundation for a transparent and human friendly General AI._
+_The benefits of AI can immediately be applied to face the challenges decentralized applications (Dapps) face in three ways.  First, discovery of services and effectiveness of services rendered.  APEX has developed open-source protocols that enable the discovery & inter-operability between smart contracts.  Second, APEX combines introspection and data clustering to do predictive placement analysis and optionally self-executing discovery.  Third, the APEX vision is to connect smart contracts to the real world and through human understandable connections.  The APEX Influencer Marketplace (AIX) implements APEX protocols and forms the foundation for a transparent and human friendly General AI._
 
 This document assumes a basic knowledge of blockchain, cryptocurrency, artificial intelligence including subsets of AI such as NLP, machine-learning and deep-learning.  Areas marked with _Advanced!_ will go into far greater detail.
 
 ## Background
 Just around the time the internet was picking up steam a person by the name of Nick Szabo had an idea for a computer based, self-executing legal document — a Smart Contract. [Smart Contracts](https://en.wikipedia.org/wiki/Smart_contract) are a set of promises, specified in digital form, that include protocols within which parties perform on these promises [<sup>[1]</sup>](https://en.wikipedia.org/wiki/Smart_contract#cite_note-:2-1) 
 
-In 2009 an unknown person going by the alias Satoshi Nakamoto created Bitcoin.  A digital ledger of sorts that’s primary use is to transfer value.  Using peer to peer networks (similar to torrents that powered the once popular Napster) the genius is it’s simplicity.  There’s no governing agency — the only basis for it’s value is implicit scarcity created through a math formula.  At the time of this writing Bitcoin is valued at $8274.50USD.  
+In 2009 an unknown person going by the alias Satoshi Nakamoto created Bitcoin.  A digital ledger of sorts that’s primary use is to transfer value.  Using peer to peer networks (similar to torrents that powered the once popular Napster) the genius is it’s simplicity.  There’s no governing agency — the only basis for it’s value is implicit scarcity created through a mathematical formula.
 
 [Ethereum](https://github.com/ethereum/wiki/wiki/White-Paper) is a combination of blockchain and smart contracts.  A self-executing set of decentralized systems designed to transfer value from one party to another given a set of conditions (transfer X from party A to party B when XYZ). 
 
-Ethereum and future platforms such as EOS uses a form of  [distributed consensus](https://en.wikipedia.org/wiki/Consensus_(computer_science)) that will propel nascent systems to evolve at an exponential pace.  
-
-On stage at [Techcrunch Disrupt](https://techcrunch.com/2017/09/18/ethereum-will-replace-visa-in-a-couple-of-years-says-founder/) the founder of Ethereum Vitalik Buteri recently said "Ethereum will match Visa in scale in a couple of years".
+Ethereum and future platforms such as EOS uses a form of  [distributed consensus](https://en.wikipedia.org/wiki/Consensus_(computer_science)) that will propel nascent systems to evolve at an exponential pace.   Ethereum’s founder  [Vitalik Buteri](https://techcrunch.com/2017/09/18/ethereum-will-replace-visa-in-a-couple-of-years-says-founder/) says "Ethereum will match Visa in scale in a couple of years".
 
 ## APEX connects the real world to smart contracts
 APEX represents an evolution in the blockchain ecosystem whereby a present and evolving intelligence system will determine the best course for creation, distribution and optimization of dapps and dapp transactions.  
@@ -27,10 +25,43 @@ The APEX platform is a wrapper for blockchain based smart contracts on [Ethereum
 
 With the introduction of AIX, APEX has taken an unprecedented step toward creating a human understandable General AI.   
 
-## AIX - The APEX Influencer Marketplace
-The first implementation of the APEX protocols comes in the form of AIX.      AIX is a very special system as the learnings from AIX will create the foundation for the language-base used to describe all the model clusters available throughout the APEX ecosystem.
+## Human Understandable General AI
+APEX is a three-part system.  A neural net paired and Monty Carlo simulation with output to a unique polygon clustering model where language is assigned and visualized.  
+
+The difference between APEX and Google’s Deep Mind (a neural net - Monte Carlo simulation hybrid) is the output model to a multi-dimensional polygon architecture whereby associations are visualized and the distance between nodes is meaningful and easily understood.  
+
+A complex neural network _Diagram A_ uses hidden layers to simulate connections between neurons in a human brain.  Increasing the number of layers leads to an exponentailly growing number of abstractions.  
+
+![](apex-technical-whitepaper/F38911DF-81EA-4A14-9BAC-F49A724297C6.png)
+_Diagram A_
+
+It’s proven that General AI can be useful to draw conclusions & solve infinitely complex problems.  We want to introduce a system whereby language will explain said drawn conclusions method and teach us how the problem is being solved.  APEX contains a simulation engine connected to real-world human influence (AIX) to output a polygon based model that accurately assigns language to each connection. _Diagram B_ > _Diagram C_
+
+![](apex-technical-whitepaper/D3461D9B-7F45-4185-AB17-D3BFC6EE2A94.png)
+_Diagram B_
+
+![](apex-technical-whitepaper/blocks.jpg)
+_Diagram C_
+
+The neural net assigns weight to each connection.  The resulting output assumes a cohesive distance based on this weight.  Using polymath we can evenly and accurately display the resulting connections. 
+
+![](apex-technical-whitepaper/186A9C7E-3196-4250-AECF-256309B94D09.png)
+_Diagram D_
+
+## AIX - The APEX Influencer Exchange
+AIX is a full implementation of the APEX protocols.  AIX also creates the foundation for the language-base used to describe all the model clusters available throughout the APEX ecosystem.
 
 The Apex Influencer Exchange (AIX) is a Dapp that allows for the conception and execution of influencer messaging programs, complete with establish fair & transparent value metrics that provide unbiased and comprehensive attribution.
+
+AIX is queryable and accessible through web services in a variety of ways.  Specifically, you can purchase influence with AIT’s through a deep network of influencers in a broad array of categories. 
+
+Purchasers and influencers have profiles that are ranked and scored.  
+
+Influence is scored and weighted through short and long term effectiveness.
+
+The resulting dataset powers the categorization of clusters from the APEX neural net.
+
+
 
 ## APEX Protocols
 ### send()
@@ -42,7 +73,6 @@ _An extension to send() on Ethereum_
 * from_whom
 * for_what
 
-
 ## APEX AI
 ### Philosophy
 It is our position that all AI systems should employ some form of empathy so they take into account the positive and potentially adverse effects of their actions.  An ancillary but important benefit of AIX will be to for Xepa to learn empathy.
@@ -50,6 +80,10 @@ It is our position that all AI systems should employ some form of empathy so the
 ### Modeling & Deep Learning
 
 ![](apex-technical-whitepaper/Hexagonal_Grids.jpg)
+
+![](apex-technical-whitepaper/Hexagonal_Grids.jpg)
+
+
 
 ### Xepa - The Smart Contract AI
 
@@ -96,7 +130,6 @@ Similar to identities, considerations can be grouped. Usually a protocol will re
 New values can be added through the add_value() protocol
 
 
-
 # APEX Overview
 # Xepa - The smart contract bot
 ## Xepa Techniques
@@ -128,8 +161,6 @@ create({'actor':{'name':'Katy Perry', 'aid':'kDy4Yu7rBwhmWFpuk6CFBbjPjFa2', 'aud
 
 Output will result in a smart contract that implements the send() and redeem() protocols
 
-
-
 ### redeem()
 Accept tokens in return for some consideration
 
@@ -140,8 +171,6 @@ for_what: [aic] - Array of consideration and/or consideration group Id's
 for_whom: [aid] - Array of actor and/or actor group Id's
 to_whom: [aid] - Array of actor and/or actor group Id's
 from_whom: [aid] - Array of actor and/or actor group Id's
-
-
 
 
 # Roadmap
