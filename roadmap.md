@@ -9,7 +9,7 @@ Tagger Media creates an AI that can accurately forecast influence 60 - 90 days i
 ## Q4 - 2017
 ### APEX Protocols
 
-APEX is created as a way to use AI to bridge distributed systems to the real world.
+APEX designs AI protocols for distributed systems.
 
 ## Q1 - 2018
 ### Public ICO
