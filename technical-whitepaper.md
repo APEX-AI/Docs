@@ -3,7 +3,7 @@
 
 _Abstract: The promise of AI is a brighter tomorrow, however It is deeply troubling that many AI systems created, such as Google’s deep mind, have shown signs of evolution beyond human comprehension.  These systems may be valuable for a stated purpose, but for the purpose of General AI, we should not create machines that rapidly eclipse our level of knowledge._
 
-_APEX creates (human understandable) real world connections to decentralized systems.  The APEX Protocol is an extension to smart contracts that allows for data and actor introspection.  Learned data is stored and analyzed in a queryable, open-source knowledgebase accessable by AIT’s (Artificial Intelligence Tokens)._
+_APEX creates (human understandable) real world connections to decentralized systems.  The APEX Protocol is an extension to smart contracts that allows for data and actor introspection.  Learned data is stored and analyzed in a queryable, open-source knowledge base accessible by AIT’s (Artificial Intelligence Tokens)._
 
 _The benefits of AI can immediately be applied to face the challenges decentralized applications (Dapps) face in three ways.  First, discovery of services and effectiveness of services rendered.  APEX has developed open-source protocols that enable the discovery & inter-operability between smart contracts.  Second, APEX combines introspection and data clustering to do predictive placement analysis and optionally self-executing discovery.  Third, the APEX vision is to connect smart contracts to the real world and through human understandable connections.  The APEX Influencer Marketplace (AIX) implements APEX protocols and forms the foundation for a transparent and human friendly General AI._
 
