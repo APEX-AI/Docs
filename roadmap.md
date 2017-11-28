@@ -1,64 +1,44 @@
-
-# APEX - Roadmap
-
+#  APEX - Roadmap
 Here is the view from 10,000 feet.  Please zoom in to see the terrain in more detail.
 
-## Q2 - 2017
-
+## Q3 - 2017
 ### AI Influencer Prediction Model
 
 Tagger Media creates an AI that can accurately forecast influence 60 - 90 days into the future.  
 
-## Q3 - 2017
-
-### APEX 
-
-APEX is created as a way to bridge the blockchain with the real world.
-
 ## Q4 - 2017
+### APEX Protocols
 
-### AIX
+APEX is created as a way to use AI to bridge distributed systems to the real world.
+
+## Q1 - 2018
+### Public ICO
+
+### AIX Launch
 
 APEX begins work on the first AI marketplace for influencers introducing protocols whereby other MCN's, agencies and influencer networks can hook in at the programmatic, data, and retail secions.
 
-## Q1 - 2018
-
-### AIX Marketplace
-
-The APEX Influencer Exchange will go live with 100k+ Influencers and 1,000+ Brands.  
-
-### AIX Wallet
-
-Influencers and Brands will be able to purchase and redeem AIT (Artificial Intelligence Tokens) through their AIX Wallet.
-
-### XEPA - AI for Smart Contracts 
-
-XEPA will make her first public appearance to create smart contracts for exclusive relationships between brands and influencers.
-
 ## Q2 - 2018
+### APEX Connections
 
-### AIX - 3rd Party Support
+APEX protocols will add connections to understand a variety of different ecosystems.
 
-AIX Services will go live to allow for 3rd party data and client injection.
+### AIX Scale
 
-### XEPA - Clustering
-
-XEPA begin to build a knowledge set of the AIX token ecosystem.
+The APEX influencer exchange will expand to hundreds of thousands of influencers.
 
 ## Q3 - 2018
+### Poly-modeling
 
-### XEPA - Injection Framework
+APEX will introduce a poly-model visualization of human-understandable General AI
 
-XEPA will outline how to submit AI models.
+### AIX Upgrades
 
-### XEPA - Deep Learning
-
-XEPA will begin to run trillions of simulations to play out the possible effects of smart contracts creation.
+AIX will make predictive assignments where influence will graduate to a push/pull ecosystem.
   
 ## Q4 - 2018
+### General AI
 
-### XEPA - Connections
-
-XEPA will open up to other ecosystems including VR/AR, Robotics, IoT, Finance, Real Estate and more...
+XEPA will be born as the world’s first human understandable General AI.
 
     
