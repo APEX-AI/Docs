@@ -49,11 +49,12 @@ The neural net assigns weight to each connection.  The resulting output assumes 
 _Diagram D_
 
 ## AIX - The APEX Influencer Exchange
+
+The Apex Influencer Exchange (AIX) is a data-driven marketplace on the Blockchain that allows brands and influencers to interact to conceive and execute influencer marketing programs, establish fair and transparent value metrics, exchange that value using a unique token, and provide unbiased attribution and effectiveness measures.
+
 AIX is a full implementation of the APEX protocols.  AIX also creates the foundation for the language-base used to describe all the model clusters available throughout the APEX ecosystem.
 
-The Apex Influencer Exchange (AIX) is a Dapp that allows for the conception and execution of influencer messaging programs, complete with establish fair & transparent value metrics that provide unbiased and comprehensive attribution.
-
-AIX is queryable and accessible through web services in a variety of ways.  Specifically, you can purchase influence with AIT’s through a deep network of influencers in a broad array of categories. 
+AIX is queryable and accessible through web services in a variety of ways. Specifically, you can purchase influence with AIT’s through a deep network of influencers in a broad array of categories. 
 
 Purchasers and influencers have profiles that are ranked and scored.  
 
@@ -61,7 +62,17 @@ Influence is scored and weighted through short and long term effectiveness.
 
 The resulting dataset powers the categorization of clusters from the APEX neural net.
 
+The concept behind AIX is simple:
 
+Allow brands and influencers to interact and facilitate the exchange of value within a transparent online marketplace that uses the same data set on both sides of any transaction.
+
+AIX solves challenges on both sides of the transaction.
+
+For brands, AIX provides a view of a wide selection of influencers across multiple lifestyle verticals, data that indicates the relative value of an influencer for specific tasks or programs, direct lines of communication with influencers, and the ability to pre-book activities at discounts to current market values.
+
+For influencers, AIX provides a platform to present themselves to global brand marketers in an accurate and efficient manner, highlight specific activities and tasks that they are interested in performing, find opportunities to engage with brands, and pre-sell their own “inventory” thereby giving them more predictable income over time.
+
+More importantly AIX allows our AI to get into the wild and be optimised as we build for other marketplaces.
 
 ## APEX Protocols
 ### send()
