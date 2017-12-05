@@ -188,38 +188,6 @@ from_whom: [aid] - Array of actor and/or actor group Id's
 ### Xepa Bot (web, ios, android)
 ### AIX (APEX influencer exchange)
 
-## Stretch Goals
-### 20m - Xepa Spoken Interface
-Xepa will adopt the a spoken voice voice of a young british lady.
-### 35m - APEX Marketplaces
-APEX will open 3 marketplaces  
-- Entertainment
-- Travel & Recreation
-- Virtual Goods
-### 50m - APEX Exchange & Wallet
-Xepa will become an exchange similar to coinbase with a spoken interface.  "Xepa, please send 10 Ether to John for lunch."
-### 60m - VR & Augmented Reality Connectors
-APEX will design a series of protocols to create smart contracts in VR.  
-### 70m - Robotics Connectors
-Xepa will gain the ability to natively communicate with popular robotics platforms.
-### 80m - IoT connectors
-Xepa will connect to your toaster and fridge.  "You may have your coffee when 75% of you are thirsty."
-### 90m - Creativity Connectors
-Xepa will get her groove on with vision, music, art and dance protocols.  You could organize a flash mob or a nationwide art project.
-### 100m - APEX Marketplaces
-APEX will open 5 more marketplaces  
-- Finance
-- Pharma
-- AI
-- Entertainment
-- Jobs
-### 150m - Real Estate
-APEX will design a series of protocols for buying and transfering physical property.
-### 250m - Distributed deep-learning computing platform (Ethereum for deep-learning)
-We will build a blockchain where miners earn gas for performing deep-learning processes.
-
-
-
 ### References
 1. Smart Contracts: Building Blocks for Digital Markets http://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/smart_contracts_2.html
 2.
