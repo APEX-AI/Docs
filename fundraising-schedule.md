@@ -11,13 +11,13 @@ A Safe-T is comparable to a Y-Combinator safe note with an added token allocatio
 
 20% discount
 
-95% token bonus
+100% token bonus
 
 ### $1m - 2.5m
 
 20% discount
 
-45% token bonus
+50% token bonus
 
 ## SAFT - Token Presale
 
