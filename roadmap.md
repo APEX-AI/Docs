@@ -4,7 +4,7 @@ Here is the view from 10,000 feet.  Please zoom in to see the terrain in more de
 ## Q3 - 2017
 ### AI Influencer Prediction Model
 
-Tagger Media creates an AI that can accurately forecast influence 60 - 90 days into the future.  
+APEX creates an AI that can accurately forecast influence 60 - 90 days into the future.  
 
 ## Q4 - 2017
 ### APEX Protocols
