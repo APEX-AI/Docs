@@ -1,41 +1,36 @@
-# APEX
-“A lack of transparency results in distrust and a deep sense of insecurity” - Dalai Lama
+# Buttrfly
 
-_Abstract: The promise of AI is a brighter tomorrow, however It is deeply troubling that many AI systems created, such as Google’s deep mind, have shown signs of evolution beyond human comprehension.  These systems may be valuable for a stated purpose, but for the purpose of General AI, we should not create machines that rapidly eclipse our level of knowledge._
+## Abstract
+Buttrfly is a decentralized messaging system for brands, influencers and tastemakers built on the EOS blockchain. Our platform coordinates and transacts with tens of millions of influencers to reach unprecedented scale. Buttrfly’s AI connects the world’s premier fashion, beauty and entertainment brands with the most engaging influencers to execute their campaigns. 
 
-_APEX creates (human understandable) real world connections to decentralized systems.  The APEX Protocol is an extension to smart contracts that allows for data and actor introspection.  Learned data is stored and analyzed in a queryable, open-source knowledge base accessible by AIT’s (Artificial Intelligence Tokens)._
-
-_The benefits of AI can immediately be applied to face the challenges decentralized applications (Dapps) face in three ways.  First, discovery of services and effectiveness of services rendered.  APEX has developed open-source protocols that enable the discovery & inter-operability between smart contracts.  Second, APEX combines introspection and data clustering to do predictive placement analysis and optionally self-executing discovery.  Third, the APEX vision is to connect smart contracts to the real world and through human understandable connections.  The APEX Influencer Marketplace (AIX) implements APEX protocols and forms the foundation for a transparent and human friendly General AI._
-
-This whitepaper assumes a basic knowledge of blockchain, cryptocurrency, artificial intelligence including subsets of AI such as NLP, machine-learning and deep-learning.  Areas marked with _Advanced!_ will go into far greater detail.
 
 ## Background
-Just around the time the internet was picking up steam a person by the name of Nick Szabo had an idea for a computer based, self-executing legal document — a Smart Contract. [Smart Contracts](https://en.wikipedia.org/wiki/Smart_contract) are a set of promises, specified in digital form, that include protocols within which parties perform on these promises [<sup>[1]</sup>](https://en.wikipedia.org/wiki/Smart_contract#cite_note-:2-1) 
+In 2006 a major technology company purchased the first sponsored tweet for $10,000. A young entrepreneur understood the power of her voice and who was listening and devised a business model to monetize her influence. The constructs of influencer marketing are based on the understanding that people are more likely to trust a recommendation given by someone they know; personalization and intimacy have become important to consumers in the age of the internet and brands have started to adapt the way they communicate with us.
 
-In 2009 an unknown person going by the alias Satoshi Nakamoto created Bitcoin.  A digital ledger of sorts that’s primary use is to transfer value.  Using peer to peer networks (similar to torrents that powered the once popular Napster) the genius is it’s simplicity.  There’s no governing agency — the only basis for it’s value is implicit scarcity created through a mathematical formula.
+Influencer marketing exploded in the last few years as a result of the exponential growth of social networks. As of 2017, daily social media usage of global internet users aged 16-64 amounted to 135 minutes per day [3]. consumers’ decisions are heavily swayed by their peers recommendations. Unprecedented adoption of social platforms like Instagram and YouTube established the ideal intimate environment for brands to speak directly to their consumers. With 49% of consumers relying on purchase recommendations from influencers and 74% of consumers using social networks prior to making purchase decisions, influencer marketing is positioned as the most effective form of digital advertising [4]. 
 
-[Ethereum](https://github.com/ethereum/wiki/wiki/White-Paper) is a combination of blockchain and smart contracts.  A self-executing set of decentralized systems designed to transfer value from one party to another given a set of conditions (transfer X from party A to party B when XYZ). 
+Brands acknowledge the effectiveness of influencer marketing campaigns as social media ad spending represented 16% of all digital ad spending globally in 2017 [2]. Ad spending is being reallocated to from traditional forms of advertising to influencer marketing campaigns as social influence continues to prove its power to sway purchasing decisions and strengthen brand identity. Last year influencer marketing spend reached $2 billion where 1.2M digital influencers endorsed over 12K brands, and this is just the beginning [5]. Influencer marketing spend is projected to grow to 10x in the next two years reaching $20 billion by 2020 [6].
 
-Ethereum and future platforms such as EOS uses a form of  [distributed consensus](https://en.wikipedia.org/wiki/Consensus_(computer_science)) that will propel nascent systems to evolve at an exponential pace.   Ethereum’s founder  [Vitalik Buteri](https://techcrunch.com/2017/09/18/ethereum-will-replace-visa-in-a-couple-of-years-says-founder/) says "Ethereum will match Visa in scale in a couple of years".
+As advertisers pour more of their annual budget into influencer marketing campaigns both brands and influencers need more support than what is currently offered by multi-channel influencer networks. Buttrfly is here to help both sides of the marketplace scale 10x in only two years.  
 
-## APEX connects the real world to smart contracts
-APEX represents an evolution in the blockchain ecosystem whereby a present and evolving intelligence system will determine the best course for creation, distribution and optimization of dapps and dapp transactions.  
 
-The APEX platform is a wrapper for blockchain based smart contracts on [Ethereum whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper) and [EOS whitepaper](https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md).   APEX protocols extend smart contract functions to provide introspection for the purpose of providing a variety of AI functions by understanding the actors and consideration for transactions.  APEX systems provide a way to programmatically and visually query the raw database, learned clusters and predictive matching functions using AIT’s. 
+## Platform
+Buttrfly implements AI for smart contract protocols that are executed on [EOS](https://eos.io/), which is designed to enable high throughput and highly scalable decentralized applications. We have the potential to scale to millions of transactions per second, eliminates user fees and allows for quick and easy deployment of our ubiquitous de-centralized application. 
 
-With the introduction of AIX, APEX has taken an unprecedented step toward creating a human understandable General AI.   
 
 ## Human Understandable General AI
-APEX is a three-part system.  A neural net paired and Monty Carlo simulation with output to a unique polygon clustering model where language is assigned and visualized.  
+Buttrfly’s parent company APEX Smart Contracts Inc is the thought leader in Smart Contact Based Artificial Intelligence. Buttrfly is the first marketplace and implementation of this particular form of AI.
 
-The difference between APEX and Google’s Deep Mind (a neural net - Monte Carlo simulation hybrid) is the output model to a multi-dimensional polygon architecture whereby associations are visualized and the distance between nodes is meaningful and easily understood.  
+APEX protocols work as part of a three-part system. A neural net paired and Monty Carlo simulation with output to a unique polygon clustering model where language is assigned and visualized.
 
-A complex neural network _Diagram A_ uses hidden layers to simulate connections between neurons in a human brain.  Increasing the number of layers leads to an exponentailly growing number of abstractions.  
+The difference between APEX and Google’s DeepMind (a neural net - Monte Carlo simulation hybrid) is the output model to a multi-dimensional polygon architecture whereby associations are visualized and the distance between nodes is meaningful and easily understood.
+
+A complex neural network Diagram A uses hidden layers to simulate connections between neurons in a human brain. Increasing the number of layers leads to an exponentially growing number of abstractions.
 
 ![](technical-whitepaper/F38911DF-81EA-4A14-9BAC-F49A724297C6.png)
 _Diagram A_
 
-It’s proven that General AI can be useful to draw conclusions & solve infinitely complex problems.  We want to introduce a system whereby language will explain said drawn conclusions method and teach us how the problem is being solved.  APEX contains a simulation engine connected to real-world human influence (AIX) to output a polygon based model that accurately assigns language to each connection. _Diagram B_ > _Diagram C_
+It’s proven that General AI can be useful to draw conclusions & solve infinitely complex problems.  We want to introduce a system whereby language will explain said drawn conclusions method and teach us how the problem is being solved.  APEX contains a simulation engine connected to real-world human influence (Buttrfly) to output a polygon based model that accurately assigns language to each connection. _Diagram B_ > _Diagram C_
 
 ![](technical-whitepaper/D3461D9B-7F45-4185-AB17-D3BFC6EE2A94.png)
 _Diagram B_
@@ -48,150 +43,59 @@ The neural net assigns weight to each connection.  The resulting output assumes 
 ![](technical-whitepaper/186A9C7E-3196-4250-AECF-256309B94D09.png)
 _Diagram D_
 
-## AIX - The APEX Influencer Exchange
 
-The Apex Influencer Exchange (AIX) is a data-driven marketplace on the Blockchain that allows brands and influencers to interact to conceive and execute influencer marketing programs, establish fair and transparent value metrics, exchange that value using a unique token, and provide unbiased attribution and effectiveness measures.
+## Buttrfly
+Buttrfly is a decentralized messaging system for brands, influencers and tastemakers built on the EOS blockchain. Buttrfly programmatically coordinates and transacts influencer marketing programs by establishing fair and transparent value metrics, exchanging that value using a unique token, and providing unbiased attribution and effectiveness measures to brands and influencers. 
+ 
+Buttrfly is queryable and accessible through web services in a variety of ways. Specifically, you can purchase influence with BUC’s through a deep network of influencers in a broad array of categories.
 
-AIX is a full implementation of the APEX protocols.  AIX also creates the foundation for the language-base used to describe all the model clusters available throughout the APEX ecosystem.
-
-AIX is queryable and accessible through web services in a variety of ways. Specifically, you can purchase influence with AIT’s through a deep network of influencers in a broad array of categories. 
-
-Purchasers and influencers have profiles that are ranked and scored.  
-
-Influence is scored and weighted through short and long term effectiveness.
-
-The resulting dataset powers the categorization of clusters from the APEX neural net.
-
-The concept behind AIX is simple:
-
+The concept behind Buttrfly is simple:
 Allow brands and influencers to interact and facilitate the exchange of value within a transparent online marketplace that uses the same data set on both sides of any transaction.
 
-AIX solves challenges on both sides of the transaction.
+Buttrfly solves challenges on both sides of the transaction.
 
-For brands, AIX provides a view of a wide selection of influencers across multiple lifestyle verticals, data that indicates the relative value of an influencer for specific tasks or programs, direct lines of communication with influencers, and the ability to pre-book activities at discounts to current market values.
+For brands, Buttrfly provides a view of a wide selection of influencers across multiple lifestyle verticals, data that indicates the relative value of an influencer for specific tasks or programs, direct lines of communication with influencers, and the ability to pre-book activities at discounts to current market values.
 
-For influencers, AIX provides a platform to present themselves to global brand marketers in an accurate and efficient manner, highlight specific activities and tasks that they are interested in performing, find opportunities to engage with brands, and pre-sell their own “inventory” thereby giving them more predictable income over time.
+For influencers, Buttrfly provides a platform to present themselves to global brand marketers in an accurate and efficient manner, highlight specific activities and tasks that they are interested in performing, find opportunities to engage with brands, and pre-sell their own “inventory” thereby giving them more predictable income over time.
 
-More importantly AIX allows our AI to get into the wild and be optimised as we build for other marketplaces.
-
-## APEX Protocols
-### send()
-_An extension to send() on Ethereum_
-**params:**
-* to
-* value
-* to_whom
-* from_whom
-* for_what
-
-## APEX AI
-### Philosophy
-It is our position that all AI systems should employ some form of empathy so they take into account the positive and potentially adverse effects of their actions.  An ancillary but important benefit of AIX will be to for Xepa to learn empathy.
-
-### Modeling & Deep Learning
-
-![](technical-whitepaper/Hexagonal_Grids.jpg)
-
-![](technical-whitepaper/Hexagonal_Grids%201.jpg)
+More importantly Buttrfly allows our AI to get into the wild and be optimised as we build for other marketplaces.
 
 
+## Buttrfly Protocols
 
-### Xepa - The Smart Contract AI
-
-The APEX ecosystem for creating dapps is similar to Kaggle where the best algorithm will be introduced to solve a given problem.
-
-Kaggle is a computer science simulator posing problems for computer scientists who’s algorithms are then scored to create a leaderboard.
-
-![](technical-whitepaper/kaggle_leaderboard_-_Google_Search.jpg)
-
-Similar to Kaggle, APEX runs billions of deep-learning simulations for each submitted entry vs. our supervised model to whereby the winner’s model is injected for a given problem. 
-
-In addition to protocols, the APEX AI known as Xepa uses NLP to provide common actions associated with dapps.
-
-"Xepa, I'd like a create a contract for Katy Perry to offer merchandise to her fans." 
-- Xepa replies "Great!, how many fans does Katy Perry have on Instagram?". 
-
-"Xepa, I'd like to create a contract for my office to pool money for lunch."  
-- Xepa replies - "Great, how many people are hungry and how much does everyone spend on lunch?"  
-
-Eventually, Xepa could be used for transactions "Xepa, please send 20 BTC to Satoshi Nakamoto as a thank you for creating the blockchain."
-
+# send()
+An extension to send() on EOS params:
+- to
+- value
+- to_whom
+- from_whom
+- for_what
 
 # Actors (aid - APEX Identity)
-Protocols can combine identities cross-sandbox through the use of a aid.  Specific identities can be useful when identifying identity groups, brands and tastemakers.  APEX will assign aid's to actors when available. 
+Protocols can combine identities cross-sandbox through the use of a aid. Specific identities can be useful when identifying identity groups, brands and tastemakers. APEX will assign aid's to actors when available. 
 
-Usually a protocol will reference an identity group.  The group has it's own unique AID.  Multiple AID's can be used as parameters without exception.  XEPA will define a subset of identity groups to start with.  [Identity Groups](https://www.doapex.com)
-
-New actors can be added through the add_actor() protocol
-
+Usually a protocol will reference an identity group. The group has its own unique AID. Multiple AID's can be used as parameters without exception. New actors can be added through the add_actor() protocol.
 
 # Consideration (aic - APEX Consideration)
-Protocols will always have a reference to consideration.  Consideration is the actual item or service being exchanged for a token.  
+Protocols will always have a reference to consideration. Consideration is the actual item or service being exchanged for a token.
 
-Similar to identities, considerations can be grouped.  The group has it's own unique AIC.  Multiple AIC's can be used as parameters without exception.  XEPA will define a subset of consideration groups to start with.  [Consideration Groups](https://www.doapex.com)
-
-New consideration can be added through the add_consideration() protocol
-
+Similar to identities, considerations can be grouped. The group has its own unique AIC. Multiple AIC's can be used as parameters without exception. New consideration can be added through the add_consideration() protocol.
 
 # Actual Value (aiv - APEX Value)
-Protocols will contain references to an actual value for an item of consideration in any fiat or token currency.  The value at the time of a transaction will change overtime thus it's important to perform any fiat exchange operations and store them at the time of transaction.
+Protocols will contain references to an actual value for an item of consideration in any fiat or token currency. The value at the time of a transaction will change overtime thus it's important to perform any fiat exchange operations and store them at the time of transaction.
 
-Similar to identities, considerations can be grouped. Usually a protocol will reference an identity group.  The group has it's own unique AID.  Multiple AID's can be used as parameters without exception.  
+Similar to identities, considerations can be grouped. Usually a protocol will reference an identity group. The group has its own unique AID. Multiple AID's can be used as parameters without exception.
 
-New values can be added through the add_value() protocol
-
-
-# APEX Overview
-# Xepa - The smart contract bot
-## Xepa Techniques
-### NLP
-Given specific inputs Xepa can perform basic actions.  Like most bots, Xepa will ask questions to fill in holes.
-
-### Deep reinforcement learning
+New values can be added through the add_value() protocol.
 
 
-### Algorithm Injection
-The APEX AI known as Xepa is a shell that accepts protocols injections from algorithm architects.  In laymans terms XEPA can be thought of as an algorythm choosing mechanism that is loosely coupled to the algorithm itself.  Any particular algorythm can be injected into any smart contract at the time of creation or later on.
-
-### Model Determination
-A contract model is a fully-formed set of protocol paramaters with a given orientation.  An algorithm match is made when an algorythm with a simulation score of 78 or better matches the input paramaters for a new smart contract.  A "parameter" match will always be selected before a "close" match because it's impossible to weight the missing paramater given a particual ecosystem.
-
-### Model Evolution
-A model may evolve over time and in a fashion similar to git-hub may be rolled backwards or forwards.  This is different than remodeling.  Remodeling occurs when a system consistently fails to uphold model standards or thresholds.
-
-### Algorithm Architects
-Architects are paid in AIT when their algorythms match a set of inputs to create a smart contract.  This "match" is the output of the algorithm in the form of a smart contract with accompanying protocols.
-
-# Protocols
-### create(name, sym, amount, for_what, for_whom)
-Recommend smart contracts based on capital needs & market demand
-
-'''
-create({'actor':{'name':'Katy Perry', 'aid':'kDy4Yu7rBwhmWFpuk6CFBbjPjFa2', 'audience_size': 100000000, 'vibrancy':23, 'engagement':78}, 'consideration': 'Merchandise', 'volume': 200000, 'platform': 'Ethereum' })
-'''
-
-Output will result in a smart contract that implements the send() and redeem() protocols
-
-### redeem()
-Accept tokens in return for some consideration
-
-# Protocol Parameters
-All protocol parameters come in the form of an array
-
-for_what: [aic] - Array of consideration and/or consideration group Id's
-for_whom: [aid] - Array of actor and/or actor group Id's
-to_whom: [aid] - Array of actor and/or actor group Id's
-from_whom: [aid] - Array of actor and/or actor group Id's
-
-
-# Roadmap
-### Xepa Bot (web, ios, android)
-### AIX (APEX influencer exchange)
-
-### References
-1. Smart Contracts: Building Blocks for Digital Markets http://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/smart_contracts_2.html
-2.
-3.
+## References
+1. [Smart Contracts: Building Blocks for Digital Markets](http://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/smart_contracts_2.html)  
+2. [Social Network Ad Spending to Hit $23.68 Billion Worldwide in 2015](https://www.emarketer.com/Article/Social-Network-Ad-Spending-Hit-2368-Billion-Worldwide-2015/1012357)
+3. [Daily time spent on social networking by internet users worldwide from 2012 to 2017](https://www.statista.com/statistics/433871/daily-social-media-usage-worldwide/) 
+4. [Can Influencers Marketing Really Motivate Purchases?](http://www.adweek.com/digital/can-influencer-marketing-really-drive-conversions-study/) 
+5. [Tagger Media](https://www.taggermedia.com)
+6. [Influencer Marketing in 2018: Becoming an Efficient Marketplace](http://www.adweek.com/digital/giordano-contestabile-activate-by-bloglovin-guest-post-influencer-marketing-in-2018/)
 
 
 
