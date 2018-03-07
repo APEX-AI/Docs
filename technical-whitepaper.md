@@ -1,11 +1,13 @@
 # Buttrfly White Paper
 
 # Abstract
-Buttrfly is a decentralized messaging system for brands, influencers and tastemakers built on the EOS blockchain. Our platform coordinates and transacts with tens of millions of influencers to reach unprecedented scale. Buttrfly’s AI connects the world’s premier fashion, beauty and entertainment brands with the most engaging influencers to execute their campaigns. 
+Buttrfly is a company which operates an online Marketplace and marketing service for brands to sponsor social media posts by influencers including micro-influencers, tastemakers, and celebrities. Marketers use the iPhone and Android app to discover amazing influencers and purchase sponsored content for the influencer’s social media posts. Buttrfly’s artificial intelligence connects the world’s premier Fashion Beauty and entertainment brands with the most engaged influencers to deliver rich analytic reports that also verify social media posts and content copyright on the EOS blockchain. 
+
+Big Ad budgets continue to be pulled from traditional media spend while bigger budgets are being allocated to digital. Traditional media isn't innovating for the next 100 years or looking for disruptive business models. We are at the precipice of a new era where freedom of speech continues to proliferate social media, influencers have freedom of voice, and traditional media is losing its distribution power. Buttrfly enables brands to bypasses traditional media and go direct to the consumer.
 
 
 # Background
-In 2006 a major technology company purchased the first sponsored tweet for $10,000. A young entrepreneur understood the power of her voice and who was listening and devised a business model to monetize her influence. The constructs of influencer marketing are based on the understanding that people are more likely to trust a recommendation given by someone they know; personalization and intimacy have become important to consumers in the age of the internet and brands have started to adapt the way they communicate with us.
+In 2008 a young entrepreneur understood the freedom of her voice, her 60,000 Twitter followers and devised a business model to monetize her influence. Her first customer was a major technology company who purchased her first sponsored tweet for $10,000. The constructs of influencer marketing are based on the understanding that people are more likely to trust a recommendation given by someone they know. Personalization and intimacy have become important to consumers in the age of the internet and brands have started to adapt the way they communicate with us.
 
 Influencer marketing exploded in the last few years as a result of the exponential growth of social networks. As of 2017, daily social media usage of global internet users aged 16-64 amounted to 135 minutes per day [3]. consumers’ decisions are heavily swayed by their peers recommendations. Unprecedented adoption of social platforms like Instagram and YouTube established the ideal intimate environment for brands to speak directly to their consumers. With 49% of consumers relying on purchase recommendations from influencers and 74% of consumers using social networks prior to making purchase decisions, influencer marketing is positioned as the most effective form of digital advertising [4]. 
 
@@ -15,7 +17,7 @@ As advertisers pour more of their annual budget into influencer marketing campai
 
 
 # Platform
-Buttrfly implements AI for smart contract protocols that are executed on [EOS](https://eos.io/), which is designed to enable high throughput and highly scalable decentralized applications. We have the potential to scale to millions of transactions per second, eliminates user fees and allows for quick and easy deployment of our ubiquitous de-centralized application. 
+Buttrfly implements AI for smart contract protocols that are executed on [EOS](https://eos.io/), which is designed to enable high throughput and highly scalable decentralized applications. We have the potential to scale to millions of transactions per second, eliminate user fees and enable quick and easy deployment of our ubiquitous de-centralized application. 
 
 
 # Human Understandable General AI
