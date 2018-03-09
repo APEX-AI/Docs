@@ -11,8 +11,6 @@ Influencer marketing exploded in the last few years as a result of the exponenti
 
 Last year influencer marketing spend reached $2 billion where 1.2M digital influencers endorsed over 12K brands, and this is just the beginning [5]. Influencer marketing spend is projected to grow to 10x in the next two years reaching $20 billion by 2020 [6]. Brands acknowledge the effectiveness of influencer marketing as social media ad spend represented 16% of global  digital ad spend  in 2017 [2]. Ad spend continues to be redistributed from traditional media to influencer marketing as social media is where consumers shop. 
 
-Brands acknowledge the effectiveness of influencer marketing, as social media ad spending represented 16% of all digital ad spending globally in 2017 [2]. Ad spending is being reallocated from traditional forms of advertising to influencer marketing campaigns as social influence continues to prove its power to sway purchasing decisions and strengthen brand identity. Last year influencer marketing spend reached $2 billion where 1.2M digital influencers endorsed over 12K brands, and this is just the beginning [5]. Influencer marketing spend is projected to grow to 10x in the next two years reaching $20 billion by 2020 [6].
-
 As advertisers pour more of their annual budget into influencer marketing campaigns both brands and influencers need more support than what is currently offered by multi-channel influencer networks. Buttrfly is here to help both sides of the marketplace scale 10x in two years.  
 
 
